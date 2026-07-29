@@ -1,0 +1,2362 @@
+[
+  {
+    "id": 1,
+    "judul": "Charlotte",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "24 min/ep",
+    "episode": 13,
+    "tahun": 2015,
+    "studio": "P.A. Works",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di dunia di mana remaja tertentu memiliki kekuatan super yang muncul saat pubertas, Yuu Otosaka menyalahgunakan kemampuannya demi kepentingan pribadi. Namun, hidupnya berubah saat ia dipaksa bergabung dengan OSIS Akademi Hoshinoumi untuk memburu dan melindungi remaja berkemampuan khusus lainnya. Sebuah perjalanan penuh misteri, pengorbanan, dan perjuangan untuk menghadapi takdir yang kejam.",
+    "genres": [
+      "Supernatural",
+      "School",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/udiCs1RBGfda1z52cBxu8j9JNmP.jpg",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "judul": "Redo of Healer",
+    "tipe": "Series",
+    "rating": "6.8",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2021,
+    "studio": "TNK",
+    "kualitas": "WEBDL",
+    "sinopsis": "Keayaru, seorang penyembuh yang dieksploitasi dan disiksa oleh kelompok pahlawan, akhirnya menyadari potensi sejati dari sihir penyembuhannya. Menggunakan kekuatan tersebut untuk memutar balik waktu, ia kembali ke masa lalu guna memulai pembalasan dendam yang kejam terhadap orang-orang yang telah menghancurkan hidupnya.",
+    "genres": [
+      "Fantasy",
+      "Revenge",
+      "Dark"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9T7TT0w92RbeRP5QSnNq81HHxde.jpg",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "judul": "Platinum End",
+    "tipe": "Series",
+    "rating": "6.5",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2021,
+    "studio": "Signal.MD",
+    "kualitas": "WEBDL",
+    "sinopsis": "Mirai Kakehashi adalah seorang remaja putus asa yang diselamatkan oleh malaikat bernama Nasse. Ia kemudian terpilih sebagai salah satu dari 13 kandidat yang bersaing dalam pertarungan mematikan selama 999 hari untuk menentukan siapa yang akan menjadi Tuhan berikutnya bagi dunia.",
+    "genres": [
+      "Supernatural",
+      "Psychological",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/hxL3ZYeS1GYORKGHG9FI0l6QXQF.jpg",
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "judul": "Fate/Strange Fake",
+    "tipe": "Series",
+    "rating": "7.9",
+    "durasi": "45 min/ep",
+    "episode": 8,
+    "tahun": 2023,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Sebuah ritual Perang Cawan Suci palsu yang terjadi di kota Snowfield, Amerika Serikat, berubah menjadi kekacauan nyata. Tujuh Master dan Servant dipanggil secara tidak sempurna ke dalam sebuah konspirasi yang melibatkan berbagai faksi dan pahlawan legendaris.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/2r5MEaLYl5lZxzgfSmrDybipngl.jpg",
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "judul": "Fate/Zero",
+    "tipe": "Series",
+    "rating": "8.3",
+    "durasi": "24 min/ep",
+    "episode": 25,
+    "tahun": 2011,
+    "studio": "ufotable",
+    "kualitas": "BLURAY",
+    "sinopsis": "Kisah Perang Cawan Suci keempat di Kota Fuyuki, di mana tujuh magus memanggil pahlawan legendaris masa lalu untuk saling bertarung dalam pertempuran rahasia yang brutal demi mengabulkan keinginan terdalam mereka.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/chUbHBiMX7buj8TzOEIjHHPCJfF.jpg",
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "judul": "Fate/stay night: Unlimited Blade Works",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "24 min/ep",
+    "episode": 26,
+    "tahun": 2014,
+    "studio": "ufotable",
+    "kualitas": "BLURAY",
+    "sinopsis": "Berpusat pada Shirou Emiya dan Rin Tohsaka dalam Perang Cawan Suci kelima, mengungkap benturan idealisme keadilan dan takdir tragis yang mengikat masa lalu serta masa depan seorang pahlawan.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/it7MNgChJr70YGXwHm11BRT7igZ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 7,
+    "judul": "Fate/Grand Order: Absolute Demonic Front - Babylonia",
+    "tipe": "Series",
+    "rating": "8.0",
+    "durasi": "24 min/ep",
+    "episode": 21,
+    "tahun": 2019,
+    "studio": "CloverWorks",
+    "kualitas": "WEBDL",
+    "sinopsis": "Perjalanan epik Ritsuka Fujimaru dan Mash ke Mesopotamia kuno tahun 2600 SM demi memperbaiki singularitas terakhir dan bertarung bersama Raja Gilgamesh melawan aliansi tiga dewi kuno.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/pVVANmkpHBwDPRwn4ymprF56Yjr.jpg",
+    "link": "#"
+  },
+  {
+    "id": 8,
+    "judul": "Overlord",
+    "tipe": "Series",
+    "rating": "7.9",
+    "durasi": "24 min/ep",
+    "episode": 13,
+    "tahun": 2015,
+    "studio": "Madhouse",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang gamer veteran memutuskan menolak log out saat game MMORPG favoritnya ditutup, hanya untuk menyadari dirinya terjebak dalam tubuh karakter penyihir tengkorak agung, Ainz Ooal Gown.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/K8ZUjxaj9F0t3AwJDz8ypzBynM.jpg",
+    "link": "#"
+  },
+  {
+    "id": 9,
+    "judul": "Date A Live",
+    "tipe": "Series",
+    "rating": "7.2",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2013,
+    "studio": "AIC ASTA",
+    "kualitas": "WEBDL",
+    "sinopsis": "Shido Itsuka memiliki kemampuan unik untuk menyegel kekuatan para Spirit, makhluk mistis penghancur dunia, dengan satu-satunya cara yang mustahil: membuat mereka jatuh cinta dan berkencan dengannya.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Harem",
+      "Comedy"
+    ],
+    "img": "https://myanimelist.net/images/anime/1368/121281.jpg",
+    "link": "#"
+  },
+  {
+    "id": 10,
+    "judul": "Naruto",
+    "tipe": "Series",
+    "rating": "8.3",
+    "durasi": "23 min/ep",
+    "episode": 220,
+    "tahun": 2002,
+    "studio": "Pierrot",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kisah masa kecil Naruto Uzumaki, seorang bocah yatim piatu yang dijauhi desanya karena menyimpan monster rubah ekor sembilan, berjuang keras demi diakui dan meraih impian menjadi Hokage.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shounen"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+    "link": "#"
+  },
+  {
+    "id": 11,
+    "judul": "Naruto Shippuden",
+    "tipe": "Series",
+    "rating": "8.6",
+    "durasi": "23 min/ep",
+    "episode": 500,
+    "tahun": 2007,
+    "studio": "Pierrot",
+    "kualitas": "WEBDL",
+    "sinopsis": "Setelah bertahun-tahun berlatih, Naruto kembali ke desa Konoha dengan kekuatan baru untuk menghadapi ancaman global dari organisasi Akatsuki yang memburu monster ekor dalam dirinya.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shounen"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
+    "link": "#"
+  },
+  {
+    "id": 12,
+    "judul": "Attack on Titan",
+    "tipe": "Series",
+    "rating": "9.0",
+    "durasi": "24 min/ep",
+    "episode": 87,
+    "tahun": 2013,
+    "studio": "MAPPA / Wit Studio",
+    "kualitas": "BLURAY",
+    "sinopsis": "Sisa-sisa umat manusia berlindung di balik tembok raksasa dari ancaman Titan, monster pemakan manusia, hingga suatu hari sebuah Titan Kolosal menjebol pertahanan terakhir mereka.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Drama",
+      "Dark"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+    "link": "#"
+  },
+  {
+    "id": 13,
+    "judul": "Jujutsu Kaisen",
+    "tipe": "Series",
+    "rating": "8.6",
+    "durasi": "24 min/ep",
+    "episode": 47,
+    "tahun": 2020,
+    "studio": "MAPPA",
+    "kualitas": "WEBDL",
+    "sinopsis": "Yuji Itadori menelan kutukan tingkat tinggi demi menyelamatkan temannya, membuatnya terseret ke dalam sekolah sihir Jujutsu untuk mengumpulkan sisa-sisa jari raja kutukan, Sukuna.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Shounen"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+    "link": "#"
+  },
+  {
+    "id": 14,
+    "judul": "Jujutsu Kaisen Season 2",
+    "tipe": "Series",
+    "rating": "9.0",
+    "durasi": "24 min/ep",
+    "episode": 23,
+    "tahun": 2023,
+    "studio": "MAPPA",
+    "kualitas": "WEBDL",
+    "sinopsis": "Dari masa lalu Gojo muda dan Geto bersama hingga Shibuya Incident yang menghancurkan, Season 2 JJK menghadirkan anime aksi terbaik dekade ini dengan animasi MAPPA yang memukau.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Shounen"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+    "link": "#"
+  },
+  {
+    "id": 15,
+    "judul": "Demon Slayer: Kimetsu no Yaiba",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "24 min/ep",
+    "episode": 55,
+    "tahun": 2019,
+    "studio": "ufotable",
+    "kualitas": "BLURAY",
+    "sinopsis": "Tanjiro Kamado bergabung dengan Korps Pembasmi Iblis demi membalas dendam atas pembantaian keluarganya dan mencari cara mengembalikan adiknya, Nezuko, yang diubah menjadi iblis.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Shounen"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+    "link": "#"
+  },
+  {
+    "id": 16,
+    "judul": "Hunter x Hunter",
+    "tipe": "Series",
+    "rating": "9.0",
+    "durasi": "24 min/ep",
+    "episode": 148,
+    "tahun": 2011,
+    "studio": "Madhouse",
+    "kualitas": "WEBDL",
+    "sinopsis": "Gon Freecss bertualang mengikuti ujian Hunter yang mematikan demi mendapatkan lisensi resmi dan melacak keberadaan ayahnya, seorang Hunter legendaris yang meninggalkannya sejak kecil.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shounen"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+    "link": "#"
+  },
+  {
+    "id": 17,
+    "judul": "Death Note",
+    "tipe": "Series",
+    "rating": "9.0",
+    "durasi": "24 min/ep",
+    "episode": 37,
+    "tahun": 2006,
+    "studio": "Madhouse",
+    "kualitas": "BLURAY",
+    "sinopsis": "Light Yagami menemukan buku catatan milik dewa kematian yang mampu membunuh siapa saja yang namanya ditulis di dalamnya, memicu perang kecerdasan melawan detektif eksentrik bernama L.",
+    "genres": [
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/504rKeAKejZO2ONKSikdsW7bgO8.jpg",
+    "link": "#"
+  },
+  {
+    "id": 18,
+    "judul": "One Piece",
+    "tipe": "Series",
+    "rating": "8.9",
+    "durasi": "24 min/ep",
+    "episode": 1100,
+    "tahun": 1999,
+    "studio": "Toei Animation",
+    "kualitas": "WEBDL",
+    "sinopsis": "Monkey D. Luffy bersama kru Bajak Laut Topi Jerami mengarungi lautan luas Grand Line demi menemukan harta karun legendaris One Piece dan meraih gelar Raja Bajak Laut.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+    "link": "#"
+  },
+  {
+    "id": 19,
+    "judul": "Bleach: Thousand-Year Blood War",
+    "tipe": "Series",
+    "rating": "8.9",
+    "durasi": "24 min/ep",
+    "episode": 61,
+    "tahun": 2022,
+    "studio": "Pierrot",
+    "kualitas": "WEBDL",
+    "sinopsis": "Ichigo Kurosaki kembali memegang pedangnya saat dunia Soul Society menghadapi ancaman kepunahan massal akibat kembalinya Yhwach, pemimpin kekaisaran Quincy yang terbangun dari tidur seribu tahun.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Shounen"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/6gCo1tBFiPFDJL0JHJuzWPurcIr.jpg",
+    "link": "#"
+  },
+  {
+    "id": 20,
+    "judul": "SSSS.Gridman",
+    "tipe": "Series",
+    "rating": "7.8",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2018,
+    "studio": "Trigger",
+    "kualitas": "WEBDL",
+    "sinopsis": "Yuta Hibiki tidak ingat siapa dirinya. Sebuah suara dari komputer tua menyuruhnya mengingat panggilannya. Ia ditarik ke dalam komputer dan muncul kembali sebagai pahlawan kolosal, Gridman.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Mecha"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/4l9EA3CCn9BQi95Rj2xlj5PSZB.jpg",
+    "link": "#"
+  },
+  {
+    "id": 21,
+    "judul": "SSSS.Dynazenon",
+    "tipe": "Series",
+    "rating": "7.6",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2021,
+    "studio": "Trigger",
+    "kualitas": "WEBDL",
+    "sinopsis": "Yomogi, seorang siswa SMA, bertemu dengan Gauma, pengembara aneh yang mengaku sebagai Pengguna Kaiju. Bersama mereka membentuk Tim Gauma melawan para Eugenis Kaiju.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Mecha"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/4l9EA3CCn9BQi95Rj2xlj5PSZB.jpg",
+    "link": "#"
+  },
+  {
+    "id": 22,
+    "judul": "Solo Leveling",
+    "tipe": "Series",
+    "rating": "8.4",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2024,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Sung Jin-woo, pemburu kasta terendah yang sering terluka, mendapatkan kesempatan kedua setelah selamat dari dungeon ganda misterius yang memberinya kemampuan unik untuk menaikkan level tanpa batas.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "System"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "link": "#"
+  },
+  {
+    "id": 23,
+    "judul": "Tokyo Ghoul",
+    "tipe": "Series",
+    "rating": "7.8",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2014,
+    "studio": "Pierrot",
+    "kualitas": "WEBDL",
+    "sinopsis": "Ken Kaneki berubah menjadi setengah manusia setengah ghoul setelah selamat dari kencan maut, memaksanya beradaptasi dengan dunia bawah tanah makhluk pemakan daging manusia yang tersembunyi.",
+    "genres": [
+      "Action",
+      "Horror",
+      "Supernatural"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/1m4RlC9BTCbyY549TOdVQ5NRPcR.jpg",
+    "link": "#"
+  },
+  {
+    "id": 24,
+    "judul": "Sword Art Online",
+    "tipe": "Series",
+    "rating": "7.6",
+    "durasi": "24 min/ep",
+    "episode": 25,
+    "tahun": 2012,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Ribuan gamer terjebak di dalam dunia game realitas virtual di mana kematian di dalam game berarti kematian sungguhan di dunia nyata, memaksa pendekar pedang Kirito bertarung untuk tamat.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Fantasy",
+      "Romance"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 25,
+    "judul": "Sword Art Online: Alicization",
+    "tipe": "Series",
+    "rating": "7.8",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2018,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kirito terbangun di dunia virtual Underworld yang terasa begitu nyata, di mana ia harus menjalani kehidupan dari awal bersama dua sahabat masa kecil tanpa mengingat kehidupan nyatanya.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "img": "https://m.media-amazon.com/images/I/81+CX3P4IyL._AC_UF894,1000_QL80_.jpg",
+    "link": "#"
+  },
+  {
+    "id": 26,
+    "judul": "Sword Art Online: Alicization - War of Underworld",
+    "tipe": "Series",
+    "rating": "7.7",
+    "durasi": "24 min/ep",
+    "episode": 23,
+    "tahun": 2019,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Setelah Kirito jatuh dalam kondisi kritis, Asuna terjun ke Underworld untuk menyelamatkannya. Namun dunia artifisial itu kini menjadi medan perang sesungguhnya antara manusia dan makhluk gelap.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 27,
+    "judul": "Sword Art Online: Alicization - Rising of Steel",
+    "tipe": "Series",
+    "rating": "7.3",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2020,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Petualangan berlanjut di Underworld saat Kirito harus menghadapi berbagai tantangan dari sistem dan kekuatan yang mengancam keseimbangan dunia yang ia jaga bersama Eugeo dan Alice.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 28,
+    "judul": "Sword Art Online Alternative: Gun Gale Online",
+    "tipe": "Series",
+    "rating": "7.3",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2018,
+    "studio": "Studio 3Hz",
+    "kualitas": "WEBDL",
+    "sinopsis": "Karen Kohiruimaki menemukan avatar kecil bersenjata lengkap dalam game Gun Gale Online. Bersama pemain misterius Pitohui, ia terjun ke turnamen Squad Jam yang berbahaya.",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 29,
+    "judul": "Gate Jietai",
+    "tipe": "Series",
+    "rating": "7.5",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2015,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Sebuah gerbang tiba-tiba muncul di distrik Ginza, Tokyo, membuka portal dari dunia lain. Pasukan Pertahanan Jepang dikirim ke Wilayah Khusus yang penuh bahaya dan petualangan.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/bCuJkIUg1n9etSYrrQKlQuSrigE.jpg",
+    "link": "#"
+  },
+  {
+    "id": 30,
+    "judul": "Log Horizon",
+    "tipe": "Series",
+    "rating": "7.7",
+    "durasi": "24 min/ep",
+    "episode": 50,
+    "tahun": 2013,
+    "studio": "Satelight / DLE",
+    "kualitas": "WEBDL",
+    "sinopsis": "30.000 pemain tiba-tiba mendapati diri mereka terjebak di dunia game online Elder Tales. Shiroe, gamer veteran, membentuk guild Log Horizon dan berjuang membangun tatanan baru di dunia berbahaya ini.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Fantasy",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xLGdRuWCn2AlByL5Y9OLB3ZwItg.jpg",
+    "link": "#"
+  },
+  {
+    "id": 31,
+    "judul": "One Punch Man",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2015,
+    "studio": "Madhouse / J.C.Staff",
+    "kualitas": "BLURAY",
+    "sinopsis": "Saitama, seorang pahlawan super yang terlalu kuat hingga mampu mengalahkan musuh apa pun hanya dengan satu pukulan, dirundung kebosanan mendalam karena kehilangan tantangan bertarung.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Parody"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/dT10AxJIXVvRwFAew4tt2RhzJrD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 32,
+    "judul": "Re:Zero - Starting Life in Another World",
+    "tipe": "Series",
+    "rating": "8.2",
+    "durasi": "24 min/ep",
+    "episode": 50,
+    "tahun": 2016,
+    "studio": "White Fox",
+    "kualitas": "WEBDL",
+    "sinopsis": "Subaru Natsuki mendapati dirinya terlempar ke dunia fantasi dan memiliki kemampuan misterius untuk memutar balik waktu setiap kali ia tewas demi menyelamatkan orang yang dicintainya.",
+    "genres": [
+      "Fantasy",
+      "Psychological",
+      "Isekai",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
+    "link": "#"
+  },
+  {
+    "id": 33,
+    "judul": "Code Geass: Lelouch of the Rebellion",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "24 min/ep",
+    "episode": 50,
+    "tahun": 2006,
+    "studio": "Sunrise",
+    "kualitas": "BLURAY",
+    "sinopsis": "Lelouch Lamperouge menggunakan kekuatan mistis Geass yang mampu mengendalikan pikiran untuk memimpin pemberontakan bertopeng melawan kekaisaran suci Britannia yang menjajah Jepang.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Psychological",
+      "Mecha"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/x316WCogkeIwNY4JR8zTCHbI2nQ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 34,
+    "judul": "Mob Psycho 100",
+    "tipe": "Series",
+    "rating": "8.6",
+    "durasi": "24 min/ep",
+    "episode": 37,
+    "tahun": 2016,
+    "studio": "Bones",
+    "kualitas": "WEBDL",
+    "sinopsis": "Shigeo 'Mob' Kageyama adalah seorang siswa SMP dengan kekuatan psikis ekstrem, namun ia memilih menekan emosi dan kekuatannya agar bisa menjalani kehidupan remaja yang normal.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+    "link": "#"
+  },
+  {
+    "id": 35,
+    "judul": "Synduality Noir",
+    "tipe": "Series",
+    "rating": "7.0",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2023,
+    "studio": "J.C.Staff",
+    "kualitas": "WEBDL",
+    "sinopsis": "Tahun 2242. Kanata ingin menjadi seorang Drifter dan bertemu dengan Noir, seorang Magus yang payah dan tanpa ingatan. Bersama mereka menghadapi Ender dalam dunia pasca-apokaliptik yang keras.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/x97QNSsHpHaq3HsbYD5Nhbsmr11.jpg",
+    "link": "#"
+  },
+  {
+    "id": 36,
+    "judul": "That Time I Got Reincarnated as a Slime",
+    "tipe": "Series",
+    "rating": "7.9",
+    "durasi": "24 min/ep",
+    "episode": 48,
+    "tahun": 2018,
+    "studio": "8bit",
+    "kualitas": "WEBDL",
+    "sinopsis": "Satoru Mikami, pegawai kantoran berusia 37 tahun, terlahir kembali di dunia fantasi sebagai slime. Dengan kemampuan menyerap dan meniru apa pun yang ia telan, ia membangun negara harmonis bagi semua ras.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Isekai",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xITip9n9uMAUA0TU6niMXU2tbh0.jpg",
+    "link": "#"
+  },
+  {
+    "id": 37,
+    "judul": "The Time I Got Reincarnated as a Slime Season 3",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2024,
+    "studio": "8bit",
+    "kualitas": "WEBDL",
+    "sinopsis": "Rimuru Tempest, kini Raja Iblis yang diakui, menghadapi ancaman dari faksi imperalis yang mengincar Jura Tempest Federation. Sebuah perang besar mendekat yang akan menguji batas kekuatan Rimuru.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xITip9n9uMAUA0TU6niMXU2tbh0.jpg",
+    "link": "#"
+  },
+  {
+    "id": 38,
+    "judul": "Fullmetal Alchemist: Brotherhood",
+    "tipe": "Series",
+    "rating": "9.1",
+    "durasi": "24 min/ep",
+    "episode": 64,
+    "tahun": 2009,
+    "studio": "Bones",
+    "kualitas": "BLURAY",
+    "sinopsis": "Edward dan Alphonse Elric mencari Philosopher's Stone untuk memulihkan tubuh mereka yang hilang setelah upaya terlarang membangkitkan ibu mereka. Petualangan mereka mengungkap konspirasi gelap yang mengancam seluruh negeri Amestris.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+    "link": "#"
+  },
+  {
+    "id": 39,
+    "judul": "Fullmetal Alchemist (2003)",
+    "tipe": "Series",
+    "rating": "8.2",
+    "durasi": "24 min/ep",
+    "episode": 51,
+    "tahun": 2003,
+    "studio": "Bones",
+    "kualitas": "WEBDL",
+    "sinopsis": "Edward dan Alphonse Elric mencari Philosopher's Stone setelah kehilangan bagian tubuh mereka. Versi 2003 ini mengambil jalur cerita berbeda dari manga aslinya menuju akhir yang lebih gelap dan filosofis.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/uCY1H8bDRqKsEGoubcCQEZlh4lO.jpg",
+    "link": "#"
+  },
+  {
+    "id": 40,
+    "judul": "Steins;Gate",
+    "tipe": "Series",
+    "rating": "9.1",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2011,
+    "studio": "White Fox",
+    "kualitas": "BLURAY",
+    "sinopsis": "Rintaro Okabe secara tidak sengaja menemukan cara mengirim pesan ke masa lalu menggunakan microwave. Namun eksperimen waktunya mengundang perhatian organisasi misterius dan memaksanya menanggung konsekuensi tragis.",
+    "genres": [
+      "Sci-Fi",
+      "Thriller",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/bj9lZLRey7ZTWNbA9o3L0tW0HfW.jpg",
+    "link": "#"
+  },
+  {
+    "id": 41,
+    "judul": "Vinland Saga",
+    "tipe": "Series",
+    "rating": "8.8",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2019,
+    "studio": "Wit Studio",
+    "kualitas": "WEBDL",
+    "sinopsis": "Thorfinn, putra dari pejuang Viking terbesar, bergabung dengan rombongan bajak laut yang membunuh ayahnya demi suatu hari membalas dendam. Sebuah epik tentang perang, kehormatan, dan pencarian makna hidup sejati.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "History",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
+    "link": "#"
+  },
+  {
+    "id": 42,
+    "judul": "Vinland Saga Season 2",
+    "tipe": "Series",
+    "rating": "9.0",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2023,
+    "studio": "MAPPA",
+    "kualitas": "WEBDL",
+    "sinopsis": "Thorfinn kini menjadi budak di lahan pertanian Denmark. Dalam kesendirian dan penebusan, ia menemukan jalan sejati menuju perdamaian yang dijanjikan bersama Einar.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "History",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
+    "link": "#"
+  },
+  {
+    "id": 43,
+    "judul": "Mushoku Tensei: Jobless Reincarnation",
+    "tipe": "Series",
+    "rating": "8.4",
+    "durasi": "24 min/ep",
+    "episode": 23,
+    "tahun": 2021,
+    "studio": "Bind",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang pria berusia 34 tahun yang tidak bekerja meninggal dan terlahir kembali di dunia fantasi sebagai Rudeus Greyrat. Bertekad tidak menyia-nyiakan kesempatan kedua, ia mengasah kemampuan magisnya sejak bayi.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "link": "#"
+  },
+  {
+    "id": 44,
+    "judul": "Mushoku Tensei II: Jobless Reincarnation",
+    "tipe": "Series",
+    "rating": "8.5",
+    "durasi": "24 min/ep",
+    "episode": 25,
+    "tahun": 2023,
+    "studio": "Bind",
+    "kualitas": "WEBDL",
+    "sinopsis": "Rudeus Greyrat melanjutkan perjalanannya setelah tragedi teleportasi massal yang memisahkan keluarganya. Kini ia memasuki Ranoa University of Magic sambil menghadapi trauma masa lalunya.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/sSLRlQOe0VyRgqYAaO4Q4WD97dM.jpg",
+    "link": "#"
+  },
+  {
+    "id": 45,
+    "judul": "Violet Evergarden",
+    "tipe": "Series",
+    "rating": "8.6",
+    "durasi": "24 min/ep",
+    "episode": 13,
+    "tahun": 2018,
+    "studio": "Kyoto Animation",
+    "kualitas": "BLURAY",
+    "sinopsis": "Violet Evergarden, mantan senjata perang yang kehilangan kedua lengannya, kini bekerja sebagai penulis surat profesional. Dalam setiap surat yang ia tulis, ia perlahan memahami arti kata-kata terakhir komandannya.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/61EwFPqc0r1uJo6la49J55F8bQ8.jpg",
+    "link": "#"
+  },
+  {
+    "id": 46,
+    "judul": "Spy x Family",
+    "tipe": "Series",
+    "rating": "8.2",
+    "durasi": "24 min/ep",
+    "episode": 37,
+    "tahun": 2022,
+    "studio": "Wit Studio / CloverWorks",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang agen mata-mata harus membentuk keluarga palsu untuk sebuah misi rahasia. Ia mengadopsi gadis telepati dan menikah dengan pembunuh bayaran, sementara tidak satupun mengetahui rahasia satu sama lain.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Slice of Life"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+    "link": "#"
+  },
+  {
+    "id": 47,
+    "judul": "Chainsaw Man",
+    "tipe": "Series",
+    "rating": "8.5",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2022,
+    "studio": "MAPPA",
+    "kualitas": "WEBDL",
+    "sinopsis": "Denji, seorang pemuda miskin yang bekerja membunuh iblis bersama anjing iblis Pochita, terbunuh oleh kliennya. Pochita menyatu dengan tubuhnya dan menghidupkannya kembali sebagai Chainsaw Man.",
+    "genres": [
+      "Action",
+      "Horror",
+      "Supernatural"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/yVtx7Xn9UxNJqvG2BkvhCcmed9S.jpg",
+    "link": "#"
+  },
+  {
+    "id": 48,
+    "judul": "Black Clover",
+    "tipe": "Series",
+    "rating": "7.9",
+    "durasi": "24 min/ep",
+    "episode": 170,
+    "tahun": 2017,
+    "studio": "Pierrot",
+    "kualitas": "WEBDL",
+    "sinopsis": "Asta, seorang anak tanpa kemampuan sihir di dunia yang dipenuhi sihir, berambisi menjadi penyihir raja. Bersama saingan sekaligus sahabatnya Yuno, mereka berjuang meraih puncak di kerajaan Clover.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Shounen"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+    "link": "#"
+  },
+  {
+    "id": 49,
+    "judul": "My Hero Academia",
+    "tipe": "Series",
+    "rating": "8.2",
+    "durasi": "24 min/ep",
+    "episode": 138,
+    "tahun": 2016,
+    "studio": "Bones",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di dunia di mana hampir semua orang memiliki kekuatan super atau Quirk, Izuku Midoriya terlahir tanpa satu pun. Takdirnya berubah saat ia bertemu pahlawan terbesar yang mewariskan kemampuan legendaris One For All.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "School",
+      "Shounen"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+    "link": "#"
+  },
+  {
+    "id": 50,
+    "judul": "Dr. Stone",
+    "tipe": "Series",
+    "rating": "8.3",
+    "durasi": "24 min/ep",
+    "episode": 57,
+    "tahun": 2019,
+    "studio": "TMS Entertainment",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seluruh umat manusia tiba-tiba membatu akibat cahaya misterius. Ribuan tahun kemudian, Senku Ishigami membebaskan diri dan bertekad membangun kembali peradaban dari nol menggunakan kekuatan ilmu pengetahuan.",
+    "genres": [
+      "Adventure",
+      "Sci-Fi",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/rocRrglJfYkglKilmFaStvo5EvS.jpg",
+    "link": "#"
+  },
+  {
+    "id": 51,
+    "judul": "The Rising of the Shield Hero",
+    "tipe": "Series",
+    "rating": "7.8",
+    "durasi": "24 min/ep",
+    "episode": 38,
+    "tahun": 2019,
+    "studio": "Kinema Citrus",
+    "kualitas": "WEBDL",
+    "sinopsis": "Naofumi Iwatani dipanggil ke dunia lain sebagai Pahlawan Perisai, namun langsung difitnah dan dikhianati. Ia harus bangkit dari titik terendah bersama seorang raccoon girl yang ia beli sebagai budak.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/nVpLyIQ14kgYtfLiAO39KyZB05q.jpg",
+    "link": "#"
+  },
+  {
+    "id": 52,
+    "judul": "Neon Genesis Evangelion",
+    "tipe": "Series",
+    "rating": "8.5",
+    "durasi": "24 min/ep",
+    "episode": 26,
+    "tahun": 1995,
+    "studio": "Gainax",
+    "kualitas": "BLURAY",
+    "sinopsis": "Di tahun 2015 pasca bencana global, Shinji Ikari dipanggil ayahnya untuk menumpangi mecha raksasa bernama Evangelion demi melawan makhluk misterius yang disebut Angel.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Mecha",
+      "Psychological"
+    ],
+    "img": "https://m.media-amazon.com/images/I/512YJCKkX1L._AC_UF894,1000_QL80_.jpg",
+    "link": "#"
+  },
+  {
+    "id": 53,
+    "judul": "Cowboy Bebop",
+    "tipe": "Series",
+    "rating": "8.9",
+    "durasi": "24 min/ep",
+    "episode": 26,
+    "tahun": 1998,
+    "studio": "Sunrise",
+    "kualitas": "BLURAY",
+    "sinopsis": "Di masa depan tahun 2071, dua pemburu bayaran bernama Spike Spiegel dan Jet Black menjelajahi luar angkasa dengan pesawat Bebop bersama beberapa rekan unik, mencari kejahatan sekaligus melarikan diri dari masa lalu.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure",
+      "Neo-Noir"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/pFSHkiSj7jLxUg1YekC5G7fPJvh.jpg",
+    "link": "#"
+  },
+  {
+    "id": 54,
+    "judul": "Trigun Stampede",
+    "tipe": "Series",
+    "rating": "7.9",
+    "durasi": "24 min/ep",
+    "episode": 13,
+    "tahun": 2023,
+    "studio": "Orange",
+    "kualitas": "WEBDL",
+    "sinopsis": "Vash the Stampede dikenal sebagai Typhoon Manusia dengan hadiah sebesar 60 miliar dollar di kepalanya. Pria berambut pirang ini ternyata adalah seorang pasifis yang berusaha menyelesaikan semua masalah tanpa pertumpahan darah.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/fFMBkG09OKQWjPxOuqxFmPaQPkV.jpg",
+    "link": "#"
+  },
+  {
+    "id": 55,
+    "judul": "Frieren: Beyond Journey's End",
+    "tipe": "Series",
+    "rating": "9.0",
+    "durasi": "24 min/ep",
+    "episode": 28,
+    "tahun": 2023,
+    "studio": "Madhouse",
+    "kualitas": "WEBDL",
+    "sinopsis": "Setelah mengalahkan Demon King, penyihir elf Frieren menyadari betapa singkatnya waktu yang ia habiskan bersama sahabatnya. Ia memulai perjalanan baru untuk memahami manusia dan menemukan sihir peninggalan gurunya.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/naEEVjSMnalwcxA38Ah2eaXQCFT.jpg",
+    "link": "#"
+  },
+  {
+    "id": 56,
+    "judul": "Dungeon Meshi (Delicious in Dungeon)",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2024,
+    "studio": "Trigger",
+    "kualitas": "WEBDL",
+    "sinopsis": "Laios dan petualangernya harus menjelajahi dungeon berbahaya untuk menyelamatkan adiknya yang ditelan naga. Karena kehabisan uang, mereka bertahan hidup dengan memasak dan memakan monster yang mereka kalahkan.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/sLvXYAFdXMmBxKrYHmL5GtlsGIP.jpg",
+    "link": "#"
+  },
+  {
+    "id": 57,
+    "judul": "Oshi no Ko",
+    "tipe": "Series",
+    "rating": "8.4",
+    "durasi": "65 min (ep 1) / 24 min",
+    "episode": 11,
+    "tahun": 2023,
+    "studio": "Doga Kobo",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang dokter yang terlahir kembali sebagai anak idola favoritnya bersama saudara kembar. Mereka tumbuh di dunia hiburan Jepang sambil mengungkap misteri kematian sang ibu.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/wVkXEsFrRFJcNYHxXsEGJNl1Jvv.jpg",
+    "link": "#"
+  },
+  {
+    "id": 58,
+    "judul": "Blue Lock",
+    "tipe": "Series",
+    "rating": "8.2",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2022,
+    "studio": "8bit",
+    "kualitas": "WEBDL",
+    "sinopsis": "Setelah Jepang tersingkir dari Piala Dunia, federasi sepak bola membuat program kontroversial Blue Lock: mengurung 300 striker muda terbaik dan hanya mengeluarkan satu striker ego terkuat.",
+    "genres": [
+      "Sports",
+      "Drama",
+      "Psychological"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/oT8YvZLq0N33rX3eEKlHOWsIVFf.jpg",
+    "link": "#"
+  },
+  {
+    "id": 59,
+    "judul": "Hell's Paradise: Jigokuraku",
+    "tipe": "Series",
+    "rating": "8.0",
+    "durasi": "24 min/ep",
+    "episode": 13,
+    "tahun": 2023,
+    "studio": "MAPPA",
+    "kualitas": "WEBDL",
+    "sinopsis": "Gabimaru, seorang ninja terkuat yang menginginkan kematian untuk bisa pulang ke istrinya, diberi kesempatan bebas jika berhasil menemukan Elixir of Life di sebuah pulau misterius yang dipenuhi makhluk dewa.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/eNBmDhNz9mDvuCZUYgFVKxIzZd5.jpg",
+    "link": "#"
+  },
+  {
+    "id": 60,
+    "judul": "Kaiju No. 8",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2024,
+    "studio": "Production I.G",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kafka Hibino bermimpi bergabung dengan pasukan pertahanan Kaiju Japan. Setelah gagal berulang kali, sebuah makhluk misterius masuk ke tubuhnya dan mengubahnya menjadi Kaiju manusia yang belum pernah ada sebelumnya.",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xOT5UCxSDKbZz6xEEJRovzIpJJh.jpg",
+    "link": "#"
+  },
+  {
+    "id": 61,
+    "judul": "The Promised Neverland",
+    "tipe": "Series",
+    "rating": "8.4",
+    "durasi": "22 min/ep",
+    "episode": 12,
+    "tahun": 2019,
+    "studio": "CloverWorks",
+    "kualitas": "WEBDL",
+    "sinopsis": "Emma, Norman, dan Ray adalah anak-anak paling pintar di panti asuhan Grace Field. Kehidupan mereka yang tampak indah hancur seketika saat mereka menemukan kebenaran mengerikan di balik panti.",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Horror"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/yMVKkjnHaFbVERuCdXEuPalRsxY.jpg",
+    "link": "#"
+  },
+  {
+    "id": 62,
+    "judul": "Parasyte: The Maxim",
+    "tipe": "Series",
+    "rating": "8.4",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2014,
+    "studio": "Madhouse",
+    "kualitas": "BLURAY",
+    "sinopsis": "Parasit alien menyerbu bumi. Saat parasit yang menarget Shinichi Izumi gagal mencapai otaknya dan bersarang di tangan kanannya, keduanya terpaksa hidup berdampingan dan menghadapi parasit lain yang lebih berbahaya.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/3gNqRblKwzTMmpWH6JYPjnDuNgH.jpg",
+    "link": "#"
+  },
+  {
+    "id": 63,
+    "judul": "Noragami",
+    "tipe": "Series",
+    "rating": "7.9",
+    "durasi": "24 min/ep",
+    "episode": 25,
+    "tahun": 2014,
+    "studio": "Bones",
+    "kualitas": "WEBDL",
+    "sinopsis": "Yato adalah dewa perang yang tidak memiliki kuil dan bekerja demi lima yen koin. Kehidupannya berubah saat ia bertemu Hiyori, seorang gadis SMA yang jiwanya sering terlepas dari tubuhnya.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/4HBKWLIjMQUhVBvFAVRDYC5VgY5.jpg",
+    "link": "#"
+  },
+  {
+    "id": 64,
+    "judul": "Haikyuu!!",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "24 min/ep",
+    "episode": 85,
+    "tahun": 2014,
+    "studio": "Production I.G",
+    "kualitas": "WEBDL",
+    "sinopsis": "Shoyo Hinata terobsesi menjadi pemain voli hebat meski tinggi badannya tidak ideal. Ia harus bermitra dengan rival jenius Kageyama untuk membawa tim lemah Karasuno kembali merajai turnamen nasional.",
+    "genres": [
+      "Sports",
+      "Drama",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/8WMazHbSVt2VE0eCzKqckZKFvMw.jpg",
+    "link": "#"
+  },
+  {
+    "id": 65,
+    "judul": "Kuroko's Basketball",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "24 min/ep",
+    "episode": 75,
+    "tahun": 2012,
+    "studio": "Production I.G",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kuroko Tetsuya, pemain tak kasat mata dari generasi keajaiban SMP Teikou, bergabung dengan SMA Seirin bersama bintang Amerika Kagami Taiga. Mereka bertekad mengalahkan mantan rekan tim yang tersebar di sekolah terkuat.",
+    "genres": [
+      "Sports",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5CrP9kA7z5YEMjFmLJYYOiCLJuV.jpg",
+    "link": "#"
+  },
+  {
+    "id": 66,
+    "judul": "Dandadan",
+    "tipe": "Series",
+    "rating": "8.3",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2024,
+    "studio": "Science SARU",
+    "kualitas": "WEBDL",
+    "sinopsis": "Momo Ayase percaya pada hantu tapi tidak pada alien. Ken Okarun percaya pada alien tapi tidak pada hantu. Setelah keduanya mengalami hal supranatural yang tidak mereka percaya, mereka harus bekerja sama menghadapi ancaman dari dua dunia.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Comedy",
+      "Romance"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/y0NrJYBMfAqTqBZJdFBEbRFLqcF.jpg",
+    "link": "#"
+  },
+  {
+    "id": 67,
+    "judul": "Wind Breaker",
+    "tipe": "Series",
+    "rating": "8.0",
+    "durasi": "24 min/ep",
+    "episode": 13,
+    "tahun": 2024,
+    "studio": "CloverWorks",
+    "kualitas": "WEBDL",
+    "sinopsis": "Haruka Sakura bergabung dengan Furin High School yang terkenal karena gangnya yang melindungi kota dari ancaman eksternal. Ia belajar arti persahabatan sambil berjuang dengan cara berkelahi di jalanan.",
+    "genres": [
+      "Action",
+      "Drama",
+      "School"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/uxhQ5KXCLhJHQpjSGDOGJStl3u7.jpg",
+    "link": "#"
+  },
+  {
+    "id": 68,
+    "judul": "The Seven Deadly Sins",
+    "tipe": "Series",
+    "rating": "7.8",
+    "durasi": "24 min/ep",
+    "episode": 100,
+    "tahun": 2014,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Elizabeth, putri kerajaan Liones, mencari tujuh ksatria legendaris yang dituduh pengkhianatan sepuluh tahun lalu untuk menyelamatkan kerajaan dari Holy Knights yang telah mengambil alih kekuasaan.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7WQFB6g7YGAjpilNOLvBPqkMTGg.jpg",
+    "link": "#"
+  },
+  {
+    "id": 69,
+    "judul": "Akame ga Kill!",
+    "tipe": "Series",
+    "rating": "7.8",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2014,
+    "studio": "White Fox",
+    "kualitas": "WEBDL",
+    "sinopsis": "Tatsumi bergabung dengan Night Raid, kelompok pembunuh revolusioner yang misi mereka adalah menggulingkan kekaisaran korup yang dipimpin oleh perdana menteri jahat.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/6cTBYoJqg8KxFrIL7uJ1TOhWVQ2.jpg",
+    "link": "#"
+  },
+  {
+    "id": 70,
+    "judul": "Fairy Tail",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "24 min/ep",
+    "episode": 328,
+    "tahun": 2009,
+    "studio": "A-1 Pictures / Bridge",
+    "kualitas": "WEBDL",
+    "sinopsis": "Lucy Heartfilia bergabung dengan guild Fairy Tail yang terkenal paling heboh. Bersama Natsu Dragneel si Dragon Slayer, Gray, dan Erza, ia menjalankan berbagai misi dan menghadapi ancaman bagi dunia.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/bJXSLq8ORCM7WkFKXMzJRPZsaEE.jpg",
+    "link": "#"
+  },
+  {
+    "id": 71,
+    "judul": "Made in Abyss",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "25 min/ep",
+    "episode": 13,
+    "tahun": 2017,
+    "studio": "Kinema Citrus",
+    "kualitas": "BLURAY",
+    "sinopsis": "Riko, anak seorang penjelajah legendaris, memutuskan turun ke dalam Abyss, jurang tak berdasar yang penuh dengan artefak kuno dan monster berbahaya, demi mencari ibunya. Ia ditemani Reg, robot misterius berbentuk anak laki-laki.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/mPWpbDGcU8Z4XUn0TQhPSDjOYdq.jpg",
+    "link": "#"
+  },
+  {
+    "id": 72,
+    "judul": "Psycho-Pass",
+    "tipe": "Series",
+    "rating": "8.4",
+    "durasi": "22 min/ep",
+    "episode": 22,
+    "tahun": 2012,
+    "studio": "Production I.G",
+    "kualitas": "BLURAY",
+    "sinopsis": "Di Jepang masa depan, sistem Sibyl dapat mengukur potensi kriminal seseorang. Inspektur baru Akane Tsunemori mempertanyakan keadilan sistem ini saat menghadapi kriminal yang tidak bisa terdeteksi.",
+    "genres": [
+      "Sci-Fi",
+      "Thriller",
+      "Psychological"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/6aBBGN5JHYENm8ViE2PPNRM7Kdz.jpg",
+    "link": "#"
+  },
+  {
+    "id": 73,
+    "judul": "Gurren Lagann",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "24 min/ep",
+    "episode": 27,
+    "tahun": 2007,
+    "studio": "Gainax",
+    "kualitas": "BLURAY",
+    "sinopsis": "Simon dan Kamina, dua pemuda yang tumbuh di bawah tanah, menemukan robot kecil yang memulai petualangan naik ke permukaan. Apa yang dimulai sebagai kisah kebebasan kecil berkembang menjadi perang kosmik untuk masa depan seluruh galaksi.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Mecha",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/2RJvkMQMtj6yPlRW0z3tRqzFdEd.jpg",
+    "link": "#"
+  },
+  {
+    "id": 74,
+    "judul": "86 -Eighty Six-",
+    "tipe": "Series",
+    "rating": "8.5",
+    "durasi": "23 min/ep",
+    "episode": 23,
+    "tahun": 2021,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Republik San Magnolia menyembunyikan kebenaran bahwa pasukan mereka adalah 86, ras yang dianggap bukan manusia. Lena, perwira idealis, dan Shin, komandan 86 yang dingin, menjalin koneksi yang mengubah pandangan dunia mereka.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Mecha",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xbHHSKSPYy4VHv0x2mPkv4X2gLx.jpg",
+    "link": "#"
+  },
+  {
+    "id": 75,
+    "judul": "Saga of Tanya the Evil",
+    "tipe": "Series",
+    "rating": "7.9",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2017,
+    "studio": "NUT",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang eksekutif perusahaan yang tidak percaya Tuhan mati dan dilahirkan kembali sebagai gadis dalam dunia mirip Perang Dunia I. Menolak takdir, ia menjadi perwira militer paling efisien yang berperang melawan Being X.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "War",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9vVJhpPy5CNRP5ZlcCBsqHKnhqQ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 76,
+    "judul": "Pluto",
+    "tipe": "Series",
+    "rating": "8.4",
+    "durasi": "60 min/ep",
+    "episode": 8,
+    "tahun": 2023,
+    "studio": "Studio M2",
+    "kualitas": "WEBDL",
+    "sinopsis": "Detektif robot Gesicht menyelidiki pembunuhan misterius para robot dan manusia hebat di seluruh dunia. Adaptasi gelap dari kisah Astro Boy klasik tentang perang, kebencian, dan harapan.",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/dMHKBFrPrRK97TbFSEJ53Mn2Rfm.jpg",
+    "link": "#"
+  },
+  {
+    "id": 77,
+    "judul": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "tipe": "Series",
+    "rating": "8.3",
+    "durasi": "24 min/ep",
+    "episode": 13,
+    "tahun": 2018,
+    "studio": "CloverWorks",
+    "kualitas": "WEBDL",
+    "sinopsis": "Sakuta Azusagawa bertemu Mai Sakurajima, aktris terkenal yang mengenakan kostum bunny girl di perpustakaan namun tak terlihat oleh siapa pun. Ini adalah gejala Adolescence Syndrome, fenomena misterius yang hanya bisa diselesaikan dengan memahami luka terdalam seseorang.",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Supernatural"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/q5ZdBlANBFKmJtKM4aMThN13ZKh.jpg",
+    "link": "#"
+  },
+  {
+    "id": 78,
+    "judul": "No Game No Life",
+    "tipe": "Series",
+    "rating": "8.2",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2014,
+    "studio": "Madhouse",
+    "kualitas": "WEBDL",
+    "sinopsis": "Sora dan Shiro, kakak beradik hikikomori yang tak terkalahkan dalam semua permainan, dipanggil ke dunia Disboard di mana semua konflik diselesaikan melalui permainan. Mereka bertekad memenangkan seluruh dunia.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/lQfmWLRnlpjflYE4xpSbYLhQHJ2.jpg",
+    "link": "#"
+  },
+  {
+    "id": 79,
+    "judul": "Gintama",
+    "tipe": "Series",
+    "rating": "8.9",
+    "durasi": "24 min/ep",
+    "episode": 367,
+    "tahun": 2006,
+    "studio": "Sunrise",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di Edo alternatif yang dikuasai alien Amanto, mantan samurai Gintoki Sakata menjalankan jasa serba bisa. Seri komedi absurd yang juga menyimpan momen-momen serius dan emosional tentang persahabatan dan kehilangan.",
+    "genres": [
+      "Comedy",
+      "Action",
+      "Drama",
+      "Parody"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xLGdRuWCn2AlByL5Y9OLB3ZwItg.jpg",
+    "link": "#"
+  },
+  {
+    "id": 80,
+    "judul": "Golden Kamuy",
+    "tipe": "Series",
+    "rating": "8.3",
+    "durasi": "24 min/ep",
+    "episode": 62,
+    "tahun": 2018,
+    "studio": "Brain's Base / Geno Studio",
+    "kualitas": "WEBDL",
+    "sinopsis": "Sugimoto Saichi mencari harta emas tersembunyi orang Ainu bersama gadis Ainu muda bernama Asirpa. Tanda lokasi harta tercetak di kulit para narapidana yang melarikan diri, memulai perburuan berbahaya di Hokkaido.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "History"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/3lJqP3YUPBWQ5MRaqRMiQMJFPHj.jpg",
+    "link": "#"
+  },
+  {
+    "id": 81,
+    "judul": "Berserk (1997)",
+    "tipe": "Series",
+    "rating": "8.6",
+    "durasi": "24 min/ep",
+    "episode": 25,
+    "tahun": 1997,
+    "studio": "OLM",
+    "kualitas": "WEBDL",
+    "sinopsis": "Guts, seorang tentara bayaran bertangan besar yang tumbuh dalam perang, bergabung dengan Band of the Hawk pimpinan Griffith yang karismatik dan ambisius. Ikatan persahabatan, pengkhianatan, dan takdir kelam menanti.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Drama",
+      "Dark"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/3yNb3s3a3aHcmjI7eWpVqhMqbGN.jpg",
+    "link": "#"
+  },
+  {
+    "id": 82,
+    "judul": "Dororo",
+    "tipe": "Series",
+    "rating": "8.2",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2019,
+    "studio": "MAPPA / Tezuka Productions",
+    "kualitas": "WEBDL",
+    "sinopsis": "Hyakkimaru terlahir tanpa anggota tubuh karena ayahnya menjual 48 bagian tubuhnya kepada iblis demi kekuasaan. Kini ia berjuang satu per satu membunuh iblis untuk mendapatkan kembali bagian tubuhnya, ditemani anak yatim piatu Dororo.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/mFbGoFxmhFAHpIbRPQnbivwjEIC.jpg",
+    "link": "#"
+  },
+  {
+    "id": 83,
+    "judul": "Ranking of Kings",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "24 min/ep",
+    "episode": 23,
+    "tahun": 2021,
+    "studio": "Wit Studio",
+    "kualitas": "WEBDL",
+    "sinopsis": "Bojji, pangeran kecil yang tuli dan lemah secara fisik, diremehkan oleh semua orang. Persahabatannya dengan sosok bayangan bernama Kage membawanya pada petualangan epik yang mengubah pandangan dunia tentang arti kekuatan sejati.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xbHHSKSPYy4VHv0x2mPkv4X2gLx.jpg",
+    "link": "#"
+  },
+  {
+    "id": 84,
+    "judul": "Magi: The Labyrinth of Magic",
+    "tipe": "Series",
+    "rating": "8.0",
+    "durasi": "24 min/ep",
+    "episode": 25,
+    "tahun": 2012,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di dunia yang terinspirasi dari Seribu Satu Malam, menara-menara misterius bernama Dungeons bermunculan. Aladdin, seorang magi misterius kecil, dan Alibaba, pedagang muda, memulai petualangan untuk menaklukkan Dungeon.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7WQFB6g7YGAjpilNOLvBPqkMTGg.jpg",
+    "link": "#"
+  },
+  {
+    "id": 85,
+    "judul": "Kaguya-sama: Love is War",
+    "tipe": "Series",
+    "rating": "8.4",
+    "durasi": "23 min/ep",
+    "episode": 37,
+    "tahun": 2019,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Presiden dan Wakil Presiden OSIS sekolah elit saling mencintai namun keduanya terlalu bangga untuk mengaku duluan. Mereka terlibat dalam perang psikologis lucu sehari-hari untuk membuat pihak lain yang mengaku cinta lebih dulu.",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "School"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/3g1IOEJ8kAkLhxLiNLiY6g9QHNR.jpg",
+    "link": "#"
+  },
+  {
+    "id": 86,
+    "judul": "Seraph of the End",
+    "tipe": "Series",
+    "rating": "7.4",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2015,
+    "studio": "Wit Studio",
+    "kualitas": "WEBDL",
+    "sinopsis": "Setelah virus misterius membunuh semua orang di atas 13 tahun, vampir mengambil alih dunia. Yuichiro Hyakuya bergabung dengan milisi kekaisaran untuk membalaskan dendam keluarganya.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/3gUQBMbLzUSPHzjy3BRjBUWMJoN.jpg",
+    "link": "#"
+  },
+  {
+    "id": 87,
+    "judul": "Terror in Resonance",
+    "tipe": "Series",
+    "rating": "7.9",
+    "durasi": "22 min/ep",
+    "episode": 11,
+    "tahun": 2014,
+    "studio": "MAPPA",
+    "kualitas": "WEBDL",
+    "sinopsis": "Dua remaja misterius bernama Nine dan Twelve melancarkan serangan bom di Tokyo menggunakan identitas Sphinx. Di balik terorisme ini tersembunyi kebenaran gelap tentang masa lalu kelam mereka yang tragis.",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/oItmHa27KJtGdtQLf4GS2gZI8v5.jpg",
+    "link": "#"
+  },
+  {
+    "id": 88,
+    "judul": "Eureka Seven",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "24 min/ep",
+    "episode": 50,
+    "tahun": 2005,
+    "studio": "Bones",
+    "kualitas": "WEBDL",
+    "sinopsis": "Renton Thurston, remaja yang bermimpi naik LFO, akhirnya mewujudkan mimpinya dan bertemu Eureka, pilot LFO misterius yang hidupnya akan mengubah segalanya.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Mecha",
+      "Romance"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/r5Tz2wr9n4MSk8RnANvIV9QmFg2.jpg",
+    "link": "#"
+  },
+  {
+    "id": 89,
+    "judul": "Darling in the FranXX",
+    "tipe": "Series",
+    "rating": "7.4",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2018,
+    "studio": "Trigger / A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di dunia masa depan yang hancur, anak-anak berpasangan untuk mengendalikan mecha FranXX melawan Klaxosaur. Zero Two dan Hiro mengungkap kebenaran tentang dunia dan eksistensi mereka.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Mecha",
+      "Romance"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/zxajmL5c7eOTT42TNiJBnMRGGMi.jpg",
+    "link": "#"
+  },
+  {
+    "id": 90,
+    "judul": "Digimon Adventure",
+    "tipe": "Series",
+    "rating": "7.9",
+    "durasi": "24 min/ep",
+    "episode": 54,
+    "tahun": 1999,
+    "studio": "Toei Animation",
+    "kualitas": "WEBDL",
+    "sinopsis": "Tujuh anak terpilih terseret ke Digital World dan bertemu monster digital lucu yang menjadi mitra mereka. Bersama Agumon, Gabumon, dan kawan-kawan yang dapat berevolusi, mereka berjuang melindungi dua dunia.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/m5sI8MHuDlbLVWD0oSnTh5tCEOI.jpg",
+    "link": "#"
+  },
+  {
+    "id": 91,
+    "judul": "Yu-Gi-Oh! Duel Monsters",
+    "tipe": "Series",
+    "rating": "7.6",
+    "durasi": "24 min/ep",
+    "episode": 224,
+    "tahun": 2000,
+    "studio": "NAS / TV Tokyo",
+    "kualitas": "WEBDL",
+    "sinopsis": "Yugi Mutou memecahkan Puzzle Milenium kuno dan berbagi tubuh dengan arwah raja gelap yang ahli permainan. Bersama teman-temannya, ia berkompetisi dalam permainan kartu Duel Monsters.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/1hzrQFaD6gGS1FMjGlW0NQLB5F0.jpg",
+    "link": "#"
+  },
+  {
+    "id": 92,
+    "judul": "Inuyasha",
+    "tipe": "Series",
+    "rating": "7.9",
+    "durasi": "24 min/ep",
+    "episode": 167,
+    "tahun": 2000,
+    "studio": "Sunrise",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kagome Higurashi terseret ke Jepang feodal dan membebaskan setengah iblis Inuyasha. Bersama, mereka mencari pecahan Jewel of Four Souls sambil menghadapi musuh-musuh kuat termasuk Naraku yang kejam.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure",
+      "Romance"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/3gT1TJRLgG9XLiBaTdFc69WlSMX.jpg",
+    "link": "#"
+  },
+  {
+    "id": 93,
+    "judul": "The Eminence in Shadow",
+    "tipe": "Series",
+    "rating": "8.0",
+    "durasi": "24 min/ep",
+    "episode": 40,
+    "tahun": 2022,
+    "studio": "Nexus",
+    "kualitas": "WEBDL",
+    "sinopsis": "Cid Kagenou terobsesi menjadi penguasa bayangan yang mengendalikan segalanya dari belakang layar. Ia menciptakan organisasi Shadow Garden sambil berpura-pura menghadapi musuh fiktif yang ternyata benar-benar ada.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Comedy",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/A8ZXOmOLwqr8DjLjfzLr2KuI1tP.jpg",
+    "link": "#"
+  },
+  {
+    "id": 94,
+    "judul": "A Sign of Affection",
+    "tipe": "Series",
+    "rating": "7.6",
+    "durasi": "23 min/ep",
+    "episode": 12,
+    "tahun": 2024,
+    "studio": "Brain's Base",
+    "kualitas": "WEBDL",
+    "sinopsis": "Yuki, mahasiswi tuna rungu yang menjalani kehidupan dengan cara tersendiri, bertemu Itsuomi, pemuda yang pandai berbahasa. Dari pertemuan sederhana di kereta, perlahan berkembang sebuah hubungan yang penuh kehangatan.",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Slice of Life"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5LAhSByXqbBQR6vRJiUHDKBJMb2.jpg",
+    "link": "#"
+  },
+  {
+    "id": 95,
+    "judul": "Guilty Crown",
+    "tipe": "Series",
+    "rating": "7.5",
+    "durasi": "22 min/ep",
+    "episode": 22,
+    "tahun": 2011,
+    "studio": "Production I.G",
+    "kualitas": "WEBDL",
+    "sinopsis": "Shu Ouma memperoleh King's Power, kemampuan menarik senjata dari jiwa seseorang. Ia bergabung dengan kelompok pemberontak Funeral Parlor namun harus menghadapi beban kekuatan dan tanggung jawab yang besar.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/6R5MtBvxqd5FTQN23KkjKqPhJMC.jpg",
+    "link": "#"
+  },
+  {
+    "id": 96,
+    "judul": "Fist of the North Star",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "27 min/ep",
+    "episode": 152,
+    "tahun": 1984,
+    "studio": "Toei Animation",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di dunia pasca-nuklir yang brutal, Kenshiro, pewaris seni bela diri legendaris Hokuto Shinken yang mampu menghancurkan tubuh musuh dari dalam, berjalan menyusuri wasteland untuk menolong yang lemah.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/8JORmJpRbIYiXg5XaYdFvPVFAlL.jpg",
+    "link": "#"
+  },
+  {
+    "id": 97,
+    "judul": "The Heroic Legend of Arslan",
+    "tipe": "Series",
+    "rating": "7.8",
+    "durasi": "25 min/ep",
+    "episode": 33,
+    "tahun": 2015,
+    "studio": "Liden Films",
+    "kualitas": "WEBDL",
+    "sinopsis": "Arslan, putra mahkota kerajaan Pars yang diremehkan, harus melarikan diri setelah kerajaannya diserbu Lusitania. Dalam pelarian, ia mengumpulkan para sekutu dan perlahan tumbuh menjadi seorang pemimpin sejati.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/4HBKWLIjMQUhVBvFAVRDYC5VgY5.jpg",
+    "link": "#"
+  },
+  {
+    "id": 98,
+    "judul": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+    "tipe": "Series",
+    "rating": "7.8",
+    "durasi": "24 min/ep",
+    "episode": 48,
+    "tahun": 2015,
+    "studio": "J.C.Staff",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di kota Orario di mana para petualang bergabung dengan familia dewa untuk menjelajahi dungeon, Bell Cranel bermimpi menjadi pahlawan terhebat setelah diselamatkan oleh Aiz Wallenstein.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure",
+      "Romance"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/ykSbLAjHaWB8LDiNXW62M3zXfFj.jpg",
+    "link": "#"
+  },
+  {
+    "id": 99,
+    "judul": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
+    "tipe": "Series",
+    "rating": "8.0",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2022,
+    "studio": "J.C.Staff",
+    "kualitas": "WEBDL",
+    "sinopsis": "Bell Cranel dan Hestia Familia turun ke lapisan bawah Dungeon yang belum pernah dijamah, menemukan peradaban dan misteri yang mengancam seluruh kota Orario serta mengungkap rahasia tentang para Dewa.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/ykSbLAjHaWB8LDiNXW62M3zXfFj.jpg",
+    "link": "#"
+  },
+  {
+    "id": 100,
+    "judul": "Overlord IV",
+    "tipe": "Series",
+    "rating": "7.8",
+    "durasi": "24 min/ep",
+    "episode": 13,
+    "tahun": 2022,
+    "studio": "Madhouse",
+    "kualitas": "WEBDL",
+    "sinopsis": "Ainz Ooal Gown melanjutkan ekspansi Nazarick ke ranah yang lebih luas dengan berinteraksi dengan berbagai kerajaan manusia. Season keempat mengeksplorasi sisi politik dan diplomatik dari penaklukan Ainz.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/K8ZUjxaj9F0t3AwJDz8ypzBynM.jpg",
+    "link": "#"
+  },
+  {
+    "id": 101,
+    "judul": "KonoSuba: God's Blessing on this Wonderful World!",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "24 min/ep",
+    "episode": 20,
+    "tahun": 2016,
+    "studio": "Studio Deen / J.C.Staff",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kazuma Sato meninggal secara memalukan dan ditawarkan pergi ke dunia fantasi oleh dewi Aqua. Bersama Megumin dan Darkness, mereka membentuk pesta petualang paling kacau sepanjang sejarah.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5CEoG0XSaJz5KL4GJQZ91eMJSMi.jpg",
+    "link": "#"
+  },
+  {
+    "id": 102,
+    "judul": "Classroom of the Elite",
+    "tipe": "Series",
+    "rating": "8.0",
+    "durasi": "24 min/ep",
+    "episode": 37,
+    "tahun": 2017,
+    "studio": "Lerche",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di Tokyo Metropolitan Advanced Nurturing School, Kiyotaka Ayanokoji yang tampak biasa-biasa saja ditempatkan di kelas terendah. Di balik penampilannya tersembunyi kecerdasan brilian yang ia gunakan untuk memanipulasi permainan peringkat kelas.",
+    "genres": [
+      "Drama",
+      "Psychological",
+      "School"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/mF5W7CRDP9K41Q4VKQZALN5nRbk.jpg",
+    "link": "#"
+  },
+  {
+    "id": 103,
+    "judul": "Isekai Quartet",
+    "tipe": "Series",
+    "rating": "7.6",
+    "durasi": "12 min/ep",
+    "episode": 12,
+    "tahun": 2019,
+    "studio": "Studio Puyukai",
+    "kualitas": "WEBDL",
+    "sinopsis": "Karakter dari berbagai seri isekai populer terpindah ke sekolah yang sama. Komedi crossover penuh momen lucu dari para protagonis Re:Zero, Overlord, Konosuba, dan Tanya the Evil.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/c8gNEChGJvBseoJTcxH1vEUqzYY.jpg",
+    "link": "#"
+  },
+  {
+    "id": 104,
+    "judul": "Arifureta: From Commonplace to World's Strongest",
+    "tipe": "Series",
+    "rating": "7.2",
+    "durasi": "24 min/ep",
+    "episode": 26,
+    "tahun": 2019,
+    "studio": "asread / white fox",
+    "kualitas": "WEBDL",
+    "sinopsis": "Hajime Nagumo, siswa terlemah yang dikhianati dan jatuh ke dasar labirin paling mematikan, bertahan sendirian dan berevolusi menjadi petarung terkuat yang menolak hero.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/jlcLhFqW9nCbGMm2BfQWllJIZiQ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 105,
+    "judul": "Highschool of the Dead",
+    "tipe": "Series",
+    "rating": "7.3",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2010,
+    "studio": "Madhouse",
+    "kualitas": "WEBDL",
+    "sinopsis": "Wabah zombi mendadak menyerang dunia, dan sekelompok siswa SMA bersama seorang perawat sekolah berjuang untuk bertahan hidup di tengah kekacauan total sambil mencari keluarga mereka.",
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/n09QwrKRRpBhU4WjuY8d7aaWxzq.jpg",
+    "link": "#"
+  },
+  {
+    "id": 106,
+    "judul": "Aldnoah.Zero",
+    "tipe": "Series",
+    "rating": "7.5",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2014,
+    "studio": "A-1 Pictures / TROYCA",
+    "kualitas": "WEBDL",
+    "sinopsis": "Ketika Putri Mars mengunjungi Bumi dan hampir dibunuh, pasukan kekaisaran Mars menggunakan ini sebagai alasan untuk menyerang Bumi. Inaho Kaizuka, siswa SMA jenius, berjuang melawan penjajah dengan strategi dan kecerdasan.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Mecha"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/s7Qm8I8jcAuJQ2GbdW2XlBmBOam.jpg",
+    "link": "#"
+  },
+  {
+    "id": 107,
+    "judul": "Sabikui Bisco",
+    "tipe": "Series",
+    "rating": "7.4",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2022,
+    "studio": "OZ",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di Jepang masa depan yang telah menjadi padang pasir akibat spora jamur, pemanah berbahaya Bisco Akaboshi dan dokter muda Milo Nekoyanagi pergi mencari Rust Eater, jamur legendaris yang diklaim dapat menyembuhkan segala penyakit.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7G7BIoXhTmGEBz9q4iGZzD5aGNd.jpg",
+    "link": "#"
+  },
+  {
+    "id": 108,
+    "judul": "Tenchi Muyo! War on Geminar",
+    "tipe": "Series",
+    "rating": "7.3",
+    "durasi": "48 min/ep",
+    "episode": 13,
+    "tahun": 2009,
+    "studio": "AIC Spirits",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kenshi Masaki dikirim ke dunia paralel Geminar di mana ia harus bertarung dalam mecha bernama Sacred Mechanoid. Terjebak jauh dari rumah, ia menggunakan kemampuan uniknya untuk kembali sambil mempengaruhi politik dunia baru.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Mecha",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/ykSbLAjHaWB8LDiNXW62M3zXfFj.jpg",
+    "link": "#"
+  },
+  {
+    "id": 109,
+    "judul": "Apothecary Diaries",
+    "tipe": "Series",
+    "rating": "8.6",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2023,
+    "studio": "Toho Animation / OLM",
+    "kualitas": "WEBDL",
+    "sinopsis": "Maomao, gadis dengan keahlian farmasi luar biasa, diculik dan dibawa ke harem kekaisaran. Di sana, ia menggunakan pengetahuannya untuk memecahkan berbagai misteri medis istana sambil menarik perhatian pejabat senior karismatik bernama Jinshi.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Historical",
+      "Romance"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/wVkXEsFrRFJcNYHxXsEGJNl1Jvv.jpg",
+    "link": "#"
+  },
+  {
+    "id": 110,
+    "judul": "Bocchi the Rock!",
+    "tipe": "Series",
+    "rating": "8.9",
+    "durasi": "23 min/ep",
+    "episode": 12,
+    "tahun": 2022,
+    "studio": "CloverWorks",
+    "kualitas": "WEBDL",
+    "sinopsis": "Hitori Gotoh, gadis super introvert yang bermimpi menjadi rockstar, secara tidak terduga bergabung dengan band. Komedi musik yang menggemaskan tentang kecemasan sosial, persahabatan, dan semangat bermain musik.",
+    "genres": [
+      "Comedy",
+      "Music",
+      "Slice of Life"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5h8DwrVPMoMFqbZzPKBGDsGNUCj.jpg",
+    "link": "#"
+  },
+  {
+    "id": 111,
+    "judul": "Lycoris Recoil",
+    "tipe": "Series",
+    "rating": "8.4",
+    "durasi": "24 min/ep",
+    "episode": 13,
+    "tahun": 2022,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Takina Inoue dipindahkan ke LycoReco, sebuah kafe damai yang dikelola Chisato Nishikigi, agen terbaik organisasi Lycoris. Di balik suasana ringan, keduanya menghadapi misi berbahaya sambil mengungkap kebenaran di balik perdamaian semu.",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 112,
+    "judul": "Dragon Ball Z",
+    "tipe": "Series",
+    "rating": "8.8",
+    "durasi": "24 min/ep",
+    "episode": 291,
+    "tahun": 1989,
+    "studio": "Toei Animation",
+    "kualitas": "BLURAY",
+    "sinopsis": "Goku dan para pejuang Z bumi melindungi planet dari ancaman luar angkasa yang semakin kuat: Frieza, Cell, hingga Majin Buu. Pertempuran epik yang mendefinisikan standar anime aksi selama dekade.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/2JABKhDJEd9R4Lqf8OUYEzxM41X.jpg",
+    "link": "#"
+  },
+  {
+    "id": 113,
+    "judul": "Guilty Crown",
+    "tipe": "Series",
+    "rating": "7.5",
+    "durasi": "22 min/ep",
+    "episode": 22,
+    "tahun": 2011,
+    "studio": "Production I.G",
+    "kualitas": "WEBDL",
+    "sinopsis": "Shu Ouma memperoleh King's Power, kemampuan menarik senjata dari jiwa seseorang. Ia bergabung dengan kelompok pemberontak Funeral Parlor dan menghadapi beban kekuatan dan tanggung jawab yang besar.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/6R5MtBvxqd5FTQN23KkjKqPhJMC.jpg",
+    "link": "#"
+  },
+  {
+    "id": 114,
+    "judul": "Shangri-La Frontier",
+    "tipe": "Series",
+    "rating": "8.0",
+    "durasi": "24 min/ep",
+    "episode": 25,
+    "tahun": 2023,
+    "studio": "C2C",
+    "kualitas": "WEBDL",
+    "sinopsis": "Rakuro Hizutome, spesialis menyelesaikan game buruk, memasuki VR-MMORPG bergengsi Shangri-La Frontier. Ia kemudian menghadapi Wethermon, boss langka yang hanya bisa dikalahkan oleh segelintir pemain di dunia.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Gaming"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "link": "#"
+  },
+  {
+    "id": 115,
+    "judul": "Zom 100: Bucket List of the Dead",
+    "tipe": "Series",
+    "rating": "7.8",
+    "durasi": "24 min/ep",
+    "episode": 12,
+    "tahun": 2023,
+    "studio": "BUG FILMS",
+    "kualitas": "WEBDL",
+    "sinopsis": "Akira Tendo, seorang karyawan yang burnout, justru merasa bebas saat wabah zombie menyerang. Ia membuat bucket list impiannya dan mulai menikmati hidup di tengah apocalypse.",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5h8DwrVPMoMFqbZzPKBGDsGNUCj.jpg",
+    "link": "#"
+  },
+  {
+    "id": 116,
+    "judul": "Highschool DxD",
+    "tipe": "Series",
+    "rating": "7.4",
+    "durasi": "24 min/ep",
+    "episode": 48,
+    "tahun": 2012,
+    "studio": "TNK / Passione",
+    "kualitas": "WEBDL",
+    "sinopsis": "Issei Hyodo, remaja pria biasa yang terbunuh pada kencan pertamanya, dibangkitkan kembali sebagai iblis oleh Rias Gremory. Ia kemudian bergabung dengan faksi iblis dan berjuang untuk menjadi Harem King legendaris.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Harem",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5h8DwrVPMoMFqbZzPKBGDsGNUCj.jpg",
+    "link": "#"
+  },
+  {
+    "id": 117,
+    "judul": "Kakegurui",
+    "tipe": "Series",
+    "rating": "7.8",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2017,
+    "studio": "MAPPA",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di Hyakkaou Private Academy, hierarki sosial ditentukan oleh perjudian. Yumeko Jabami, siswi baru yang cantik dan tampak biasa, ternyata adalah penjudi fanatik yang menantang sistem korup akademi dengan cara bermain yang irasional dan penuh risiko.",
+    "genres": [
+      "Psychological",
+      "Drama",
+      "School"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/mF5W7CRDP9K41Q4VKQZALN5nRbk.jpg",
+    "link": "#"
+  },
+  {
+    "id": 118,
+    "judul": "Tokyo Revengers",
+    "tipe": "Series",
+    "rating": "7.8",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2021,
+    "studio": "Liden Films",
+    "kualitas": "WEBDL",
+    "sinopsis": "Takemichi Hanagaki, pemuda gagal, menemukan kemampuan untuk melakukan perjalanan waktu ke masa SMPnya. Ia bertekad mengubah masa lalu untuk menyelamatkan mantan kekasihnya dari kematian dan mengubah nasib geng Tokyo Manji.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/rERwY9qJEBgdqNkqDCMRXGGa0xX.jpg",
+    "link": "#"
+  },
+  {
+    "id": 119,
+    "judul": "Oshi no Ko Season 2",
+    "tipe": "Series",
+    "rating": "8.6",
+    "durasi": "24 min/ep",
+    "episode": 13,
+    "tahun": 2024,
+    "studio": "Doga Kobo",
+    "kualitas": "WEBDL",
+    "sinopsis": "Aqua dan Ruby melanjutkan kehidupan di industri hiburan dengan mempersiapkan drama adaptasi manga mendiang ibu mereka. Konflik semakin memanas saat orang-orang baru masuk ke dalam kehidupan mereka.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/wVkXEsFrRFJcNYHxXsEGJNl1Jvv.jpg",
+    "link": "#"
+  },
+  {
+    "id": 120,
+    "judul": "Jujutsu Kaisen Season 3",
+    "tipe": "Series",
+    "rating": "9.1",
+    "durasi": "24 min/ep",
+    "episode": 21,
+    "tahun": 2025,
+    "studio": "MAPPA",
+    "kualitas": "WEBDL",
+    "sinopsis": "Arc Culling Game dimulai: Yuji, Megumi, dan Nobara harus berjuang melawan para pemain terkuat di dunia dalam permainan mematikan yang dibuat oleh Kenjaku. Pertarungan ini menentukan masa depan sihir dunia.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Shounen"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+    "link": "#"
+  },
+  {
+    "id": 121,
+    "judul": "Solo Leveling Season 2: Arise from the Shadow",
+    "tipe": "Series",
+    "rating": "8.6",
+    "durasi": "24 min/ep",
+    "episode": 13,
+    "tahun": 2025,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Sung Jin-woo kini telah menjadi shadow monarch yang kuat. Di Season 2, ia menghadapi ancaman yang jauh lebih besar dari sekadar gate dungeon saat makhluk dari dimensi lain mulai menginvasi bumi.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "System"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "link": "#"
+  },
+  {
+    "id": 122,
+    "judul": "The Ancient Magus' Bride",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "24 min/ep",
+    "episode": 24,
+    "tahun": 2017,
+    "studio": "Wit Studio",
+    "kualitas": "WEBDL",
+    "sinopsis": "Chise Hatori, gadis muda yang dijual sebagai budak, dibawa ke Inggris yang penuh sihir oleh Elias Ainsworth. Ia belajar ilmu sihir sambil perlahan menemukan makna hidup dan perasaan yang berkembang terhadap gurunya.",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Romance"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/6aBBGN5JHYENm8ViE2PPNRM7Kdz.jpg",
+    "link": "#"
+  },
+  {
+    "id": 123,
+    "judul": "Land of the Lustrous",
+    "tipe": "Series",
+    "rating": "8.5",
+    "durasi": "23 min/ep",
+    "episode": 12,
+    "tahun": 2017,
+    "studio": "Orange",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di dunia jauh di masa depan, makhluk berbentuk permata hidup berjuang melawan Lunarian. Phosphophyllite, permata paling rapuh, mencari peran dalam pertempuran dan menemukan kebenaran yang mengguncang segalanya.",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xbHHSKSPYy4VHv0x2mPkv4X2gLx.jpg",
+    "link": "#"
+  }
+]

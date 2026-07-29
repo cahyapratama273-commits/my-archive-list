@@ -1,0 +1,1114 @@
+[
+  {
+    "id": 1,
+    "judul": "From",
+    "tipe": "Series",
+    "rating": "7.8",
+    "durasi": "60 min/ep",
+    "tahun": 2022,
+    "sutradara": "Jack Bender",
+    "kualitas": "WEBDL",
+    "sinopsis": "Sebuah kota misterius di Amerika Serikat menjebak setiap orang yang memasukinya. Penduduk yang terjebak harus berjuang untuk tetap waras dan mencari jalan keluar, sambil bertahan hidup dari ancaman makhluk nokturnal menakutkan yang muncul dari hutan saat malam tiba.",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Mystery"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "judul": "The Walking Dead",
+    "tipe": "Series",
+    "rating": "8.2",
+    "durasi": "45 min/ep",
+    "tahun": 2010,
+    "sutradara": "Frank Darabont",
+    "kualitas": "BLURAY",
+    "sinopsis": "Sheriff Deputy Rick Grimes terbangun dari koma dan menemukan dunia telah dikuasai oleh zombie yang disebut Walker. Ia mencari keluarganya sambil memimpin sekelompok penyintas yang berjuang mempertahankan kemanusiaan mereka.",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xf9wuDcqlUPWABZNeDKakN9kjol.jpg",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "judul": "Breaking Bad",
+    "tipe": "Series",
+    "rating": "9.5",
+    "durasi": "47 min/ep",
+    "tahun": 2008,
+    "sutradara": "Vince Gilligan",
+    "kualitas": "BLURAY",
+    "sinopsis": "Walter White, seorang guru kimia SMA yang didiagnosis kanker stadium lanjut, bermitra dengan mantan muridnya Jesse Pinkman untuk memproduksi metamfetamin demi mengamankan masa depan keluarganya.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "judul": "Game of Thrones",
+    "tipe": "Series",
+    "rating": "9.2",
+    "durasi": "55 min/ep",
+    "tahun": 2011,
+    "sutradara": "David Benioff & D.B. Weiss",
+    "kualitas": "BLURAY",
+    "sinopsis": "Beberapa keluarga bangsawan berperang untuk mendominasi tanah fiksi Westeros, sementara ancaman kuno bangkit dari utara dan seorang pewaris dinasti yang diasingkan berjuang untuk merebut kembali takhta keluarganya.",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "judul": "The Last of Us",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "50 min/ep",
+    "tahun": 2023,
+    "sutradara": "Craig Mazin & Neil Druckmann",
+    "kualitas": "WEBDL",
+    "sinopsis": "Dua puluh tahun setelah peradaban modern hancur akibat infeksi jamur yang mengubah manusia menjadi monster, Joel ditugaskan menyelundupkan Ellie, gadis remaja yang imun, melintasi Amerika yang berbahaya.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "judul": "Stranger Things",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "50 min/ep",
+    "tahun": 2016,
+    "sutradara": "The Duffer Brothers",
+    "kualitas": "WEBDL",
+    "sinopsis": "Saat seorang anak laki-laki menghilang di kota kecil Hawkins, Indiana, teman-temannya dan keluarganya mengungkap misteri yang melibatkan eksperimen rahasia pemerintah, kekuatan supernatural, dan seorang gadis aneh.",
+    "genres": [
+      "Sci-Fi",
+      "Horror",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 7,
+    "judul": "The Boys",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "55 min/ep",
+    "tahun": 2019,
+    "sutradara": "Eric Kripke",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di dunia di mana superhero disanjung seperti selebriti, sekelompok orang biasa bertekad untuk mengekspos dan menghentikan para supe yang korup. Satire tajam tentang kekuasaan, media, dan kapitalisme.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Comedy",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "link": "#"
+  },
+  {
+    "id": 8,
+    "judul": "House of the Dragon",
+    "tipe": "Series",
+    "rating": "8.4",
+    "durasi": "60 min/ep",
+    "tahun": 2022,
+    "sutradara": "Miguel Sapochnik & Ryan Condal",
+    "kualitas": "WEBDL",
+    "sinopsis": "Prekuel dari Game of Thrones yang berfokus pada Perang Saudara House Targaryen yang dikenal sebagai Dance of the Dragons, di mana para pewaris takhta bersaing dalam perang berdarah menggunakan naga.",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Action"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/z2yahl2uefxDCl0nogcRBstwruJ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 9,
+    "judul": "Squid Game",
+    "tipe": "Series",
+    "rating": "8.0",
+    "durasi": "32-56 min/ep",
+    "tahun": 2021,
+    "sutradara": "Hwang Dong-hyuk",
+    "kualitas": "WEBDL",
+    "sinopsis": "Ratusan orang yang terjerat hutang diculik dan diberi kesempatan memenangkan hadiah senilai miliaran won dengan bermain serangkaian permainan anak-anak mematikan. Hanya ada satu pemenang dan semua yang kalah harus mati.",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Mystery"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+    "link": "#"
+  },
+  {
+    "id": 10,
+    "judul": "Arcane",
+    "tipe": "Series",
+    "rating": "9.0",
+    "durasi": "40 min/ep",
+    "tahun": 2021,
+    "sutradara": "Pascal Charrue & Arnaud Delord",
+    "kualitas": "WEBDL",
+    "sinopsis": "Berlatar belakang dunia League of Legends, serial ini mengisahkan asal-usul dua saudari Jinx dan Vi dalam konflik yang semakin memanas antara kota mewah Piltover dan kota bawah tanah Zaun yang miskin.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+    "link": "#"
+  },
+  {
+    "id": 11,
+    "judul": "Wednesday",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "45 min/ep",
+    "tahun": 2022,
+    "sutradara": "Tim Burton",
+    "kualitas": "WEBDL",
+    "sinopsis": "Wednesday Addams menjalani tahun pertamanya di Nevermore Academy, sekolah khusus untuk para outcast. Sementara berusaha menguasai kemampuan psikisnya, ia menyelidiki serangkaian pembunuhan misterius di kota.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Mystery",
+      "Horror"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+    "link": "#"
+  },
+  {
+    "id": 12,
+    "judul": "The Witcher",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "60 min/ep",
+    "tahun": 2019,
+    "sutradara": "Lauren Schmidt Hissrich",
+    "kualitas": "WEBDL",
+    "sinopsis": "Geralt dari Rivia, seorang pemburu monster mutan bersenjatakan pedang dan ilmu hitam, berjuang menemukan tempatnya di dunia di mana manusia seringkali lebih jahat dari para monster yang ia buru.",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7vjaCdMw15FEbXyLQTVa04URsPm.jpg",
+    "link": "#"
+  },
+  {
+    "id": 13,
+    "judul": "The Mandalorian",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "30-50 min/ep",
+    "tahun": 2019,
+    "sutradara": "Jon Favreau",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di pinggiran galaksi jauh dari otoritas New Republic, seorang pemburu bayaran Mandalorian menjelajahi galaksi bersama makhluk misterius yang kemudian dikenal sebagai Grogu alias Baby Yoda.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/eU1i6eHXlzMqZIOS1YiA9afp2RD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 14,
+    "judul": "Dark",
+    "tipe": "Series",
+    "rating": "8.8",
+    "durasi": "45-60 min/ep",
+    "tahun": 2017,
+    "sutradara": "Baran bo Odar",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di kota kecil Winden Jerman, hilangnya seorang anak memicu perjalanan waktu yang penuh kepelikan yang melibatkan empat keluarga yang saling terikat. Misteri yang mencakup tiga generasi dan lebih dari satu abad.",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+    "link": "#"
+  },
+  {
+    "id": 15,
+    "judul": "Peaky Blinders",
+    "tipe": "Series",
+    "rating": "8.8",
+    "durasi": "60 min/ep",
+    "tahun": 2013,
+    "sutradara": "Steven Knight",
+    "kualitas": "WEBDL",
+    "sinopsis": "Tommy Shelby memimpin keluarga kriminal Peaky Blinders di Birmingham pasca-Perang Dunia I. Dengan kecerdasan dan keberanian, ia membangun kerajaan kejahatan yang semakin besar sambil menghadapi ancaman dari semua sisi.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/vUUqzWa2LnHIVqkaKVn3nyfVnBL.jpg",
+    "link": "#"
+  },
+  {
+    "id": 16,
+    "judul": "Ozark",
+    "tipe": "Series",
+    "rating": "8.4",
+    "durasi": "60 min/ep",
+    "tahun": 2017,
+    "sutradara": "Bill Dubuque & Mark Williams",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang penasihat keuangan memindahkan keluarganya ke Ozarks setelah skema pencucian uang yang ia jalankan untuk kartel narkoba Meksiko berantakan. Mereka harus bertahan di lingkungan baru yang berbahaya.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/pCh8rCTedQTc2EWVbk8K4KlzNQC.jpg",
+    "link": "#"
+  },
+  {
+    "id": 17,
+    "judul": "Money Heist (La Casa de Papel)",
+    "tipe": "Series",
+    "rating": "8.2",
+    "durasi": "70 min/ep",
+    "tahun": 2017,
+    "sutradara": "Alex Pina",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang master penipu yang disebut Profesor merencanakan dua perampokan terbesar dalam sejarah di Percetakan Uang Kerajaan Spanyol dan Bank of Spain dengan tim bertopeng merah berjubah.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller",
+      "Action"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+    "link": "#"
+  },
+  {
+    "id": 18,
+    "judul": "Prison Break",
+    "tipe": "Series",
+    "rating": "8.3",
+    "durasi": "45 min/ep",
+    "tahun": 2005,
+    "sutradara": "Paul Scheuring",
+    "kualitas": "WEBDL",
+    "sinopsis": "Michael Scofield dengan sengaja memenjarakan dirinya untuk membantu saudara kandungnya Lincoln yang dijatuhi hukuman mati untuk kejahatan yang tidak dilakukannya, sambil membawa rencana pelarian yang ditatokan di badannya.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5E1BhkCgjLBlcRHJxnGaiTBMbPe.jpg",
+    "link": "#"
+  },
+  {
+    "id": 19,
+    "judul": "Sherlock",
+    "tipe": "Series",
+    "rating": "9.1",
+    "durasi": "88 min/ep",
+    "tahun": 2010,
+    "sutradara": "Steven Moffat & Mark Gatiss",
+    "kualitas": "BLURAY",
+    "sinopsis": "Adaptasi modern kisah detektif Sherlock Holmes yang tinggal di London abad ke-21 bersama Dr. John Watson. Keduanya memecahkan kasus-kasus paling kompleks yang bahkan melampaui kemampuan Scotland Yard.",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+    "link": "#"
+  },
+  {
+    "id": 20,
+    "judul": "Black Mirror",
+    "tipe": "Series",
+    "rating": "8.8",
+    "durasi": "60 min/ep",
+    "tahun": 2011,
+    "sutradara": "Charlie Brooker",
+    "kualitas": "WEBDL",
+    "sinopsis": "Antologi modern yang mengeksplorasi konsekuensi gelap dan paradoks dari teknologi digital dalam kehidupan manusia masa kini, dengan setiap episode menyajikan distopia yang berbeda dan mencekam.",
+    "genres": [
+      "Sci-Fi",
+      "Thriller",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5UaykeFKGqy0wdNcdgQOer8pJJO.jpg",
+    "link": "#"
+  },
+  {
+    "id": 21,
+    "judul": "Vikings",
+    "tipe": "Series",
+    "rating": "8.5",
+    "durasi": "44 min/ep",
+    "tahun": 2013,
+    "sutradara": "Michael Hirst",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kisah Ragnar Lothbrok, seorang petani Viking menjadi raja legendaris, bersama anak-anaknya yang meneruskan warisannya dalam ekspedisi penggerebekan ke Inggris, Perancis, dan tanah-tanah baru yang jauh.",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/bQLrITMKvgYJSMSWBW7FHgCwzLQ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 22,
+    "judul": "The Last Kingdom",
+    "tipe": "Series",
+    "rating": "8.4",
+    "durasi": "55 min/ep",
+    "tahun": 2015,
+    "sutradara": "Stephen Butchard",
+    "kualitas": "WEBDL",
+    "sinopsis": "Uhtred dari Bebbanburg, seorang bangsawan Saxon yang diadopsi oleh Viking, berjuang di antara dua identitas sambil membantu Raja Alfred Agung menyatukan kerajaan-kerajaan Saxon menjadi Inggris.",
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/6cHPj4tkSdBaYaKQJmh4I9hFCmA.jpg",
+    "link": "#"
+  },
+  {
+    "id": 23,
+    "judul": "The Wire",
+    "tipe": "Series",
+    "rating": "9.3",
+    "durasi": "59 min/ep",
+    "tahun": 2002,
+    "sutradara": "David Simon",
+    "kualitas": "BLURAY",
+    "sinopsis": "Pandangan mendalam tentang kota Baltimore melalui mata para penegak hukum dan pengedar narkoba. Serial ini mengeksplorasi kegagalan sistemik institusi pemerintahan dan penegakan hukum Amerika.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/4lbclFbFbWGlEkxFVOFxCqNGaSP.jpg",
+    "link": "#"
+  },
+  {
+    "id": 24,
+    "judul": "Rome",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "55 min/ep",
+    "tahun": 2005,
+    "sutradara": "Bruno Heller",
+    "kualitas": "BLURAY",
+    "sinopsis": "Drama historis yang mengikuti kehancuran Republik Romawi dan kebangkitan Kekaisaran Roma melalui mata dua tentara biasa, Julius Caesar, Mark Anthony, Cleopatra, dan para tokoh berpengaruh lainnya.",
+    "genres": [
+      "Drama",
+      "History",
+      "Action"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/uDwMbpJQijEBGKFQMtBpVKMa17D.jpg",
+    "link": "#"
+  },
+  {
+    "id": 25,
+    "judul": "Chernobyl",
+    "tipe": "Series",
+    "rating": "9.3",
+    "durasi": "60 min/ep",
+    "tahun": 2019,
+    "sutradara": "Johan Renck",
+    "kualitas": "WEBDL",
+    "sinopsis": "Miniseri yang mendramatisasi bencana nuklir Chernobyl tahun 1986 dan upaya heroik para ilmuwan untuk mengandung bencana, serta mengungkap kebenaran di balik serangkaian kebohongan resmi pemerintah Soviet.",
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/hlLXt2tOPy1e7n1LqxKIRRnwvuh.jpg",
+    "link": "#"
+  },
+  {
+    "id": 26,
+    "judul": "Band of Brothers",
+    "tipe": "Series",
+    "rating": "9.4",
+    "durasi": "60 min/ep",
+    "tahun": 2001,
+    "sutradara": "Steven Spielberg & Tom Hanks",
+    "kualitas": "BLURAY",
+    "sinopsis": "Berdasarkan kisah nyata, miniseri ini mengikuti perjalanan Easy Company dari pelatihan di Camp Toccoa hingga hari kemenangan di Eropa selama Perang Dunia II.",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9jCuHGrFovmMVLJGzTVRaTJ9EQ4.jpg",
+    "link": "#"
+  },
+  {
+    "id": 27,
+    "judul": "Daredevil",
+    "tipe": "Series",
+    "rating": "8.6",
+    "durasi": "54 min/ep",
+    "tahun": 2015,
+    "sutradara": "Drew Goddard",
+    "kualitas": "WEBDL",
+    "sinopsis": "Matt Murdock, pengacara buta siang hari dan pahlawan bertopeng di malam hari, berjuang membebaskan kota New York dari cengkeraman kriminal besar sambil menghadapi dilema moral antara hukum dan keadilan.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/QWrDzLOgmMYRMDQcFnz8BQ3FEi.jpg",
+    "link": "#"
+  },
+  {
+    "id": 28,
+    "judul": "True Detective",
+    "tipe": "Series",
+    "rating": "8.9",
+    "durasi": "57 min/ep",
+    "tahun": 2014,
+    "sutradara": "Nic Pizzolatto",
+    "kualitas": "WEBDL",
+    "sinopsis": "Dua detektif dengan kepribadian yang sangat berbeda menginvestigasi kasus pembunuhan ritualistik di Louisiana selama rentang waktu 17 tahun, mengungkap jaringan korupsi dan kejahatan yang jauh lebih dalam.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/mMZRKb3NVo5ZeSPEIaNW9buYEoD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 29,
+    "judul": "Succession",
+    "tipe": "Series",
+    "rating": "8.8",
+    "durasi": "60 min/ep",
+    "tahun": 2018,
+    "sutradara": "Jesse Armstrong",
+    "kualitas": "WEBDL",
+    "sinopsis": "Keluarga Roy yang disfungsional mengendalikan salah satu konglomerat media dan hiburan terbesar di dunia. Ketika ayah yang mendominasi mempertimbangkan pensiun, persaingan sengit antar saudara untuk mewarisi kekuasaan pun dimulai.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/e2X4vnHMwenqIWGnBbWxBPmBhV3.jpg",
+    "link": "#"
+  },
+  {
+    "id": 30,
+    "judul": "Severance",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "52 min/ep",
+    "tahun": 2022,
+    "sutradara": "Ben Stiller",
+    "kualitas": "WEBDL",
+    "sinopsis": "Para karyawan Lumon Industries menjalani prosedur severance yang memisahkan ingatan pekerjaan dan kehidupan pribadi mereka secara permanen. Ketika salah satu karyawan mulai mempertanyakan eksistensinya, konspirasi besar terkuak.",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Drama",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/g3ViCkMbMTbFiDCgOXBFpIGzOzb.jpg",
+    "link": "#"
+  },
+  {
+    "id": 31,
+    "judul": "Shogun (2024)",
+    "tipe": "Series",
+    "rating": "9.0",
+    "durasi": "60 min/ep",
+    "tahun": 2024,
+    "sutradara": "Rachel Kondo & Caillin Puma",
+    "kualitas": "WEBDL",
+    "sinopsis": "Pelaut Inggris John Blackthorne terdampar di Jepang feodal dan terseret ke dalam intrik politik mematikan antara para penguasa daimyo yang bersaing untuk menjadi Shogun, pemimpin tertinggi Jepang.",
+    "genres": [
+      "Drama",
+      "History",
+      "Action"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7O4iVfOMQmdCSxhOg1WnzG1HCZC.jpg",
+    "link": "#"
+  },
+  {
+    "id": 32,
+    "judul": "Fallout",
+    "tipe": "Series",
+    "rating": "8.5",
+    "durasi": "60 min/ep",
+    "tahun": 2024,
+    "sutradara": "Geneva Robertson-Dworet & Graham Wagner",
+    "kualitas": "WEBDL",
+    "sinopsis": "Dua ratus tahun setelah bencana nuklir, seorang wanita naif dari bunker bertemu dengan prajurit Persaudaraan Baja dan serigala manusia dalam perjalanan menjelajahi wasteland Amerika pasca-apokaliptik.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Drama",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/AnsSKR4CdOmxaBNkimOrcpEJmSC.jpg",
+    "link": "#"
+  },
+  {
+    "id": 33,
+    "judul": "Mr. Robot",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "45 min/ep",
+    "tahun": 2015,
+    "sutradara": "Sam Esmail",
+    "kualitas": "WEBDL",
+    "sinopsis": "Elliot Alderson, seorang insinyur keamanan siber yang menderita gangguan kepribadian, direkrut oleh hacker misterius bernama Mr. Robot untuk bergabung dengan kelompok hacker yang berencana menghapus semua utang di dunia.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/oKIBhzZzDX07SoDb00BR5xfAAFC.jpg",
+    "link": "#"
+  },
+  {
+    "id": 34,
+    "judul": "Better Call Saul",
+    "tipe": "Series",
+    "rating": "9.0",
+    "durasi": "47 min/ep",
+    "tahun": 2015,
+    "sutradara": "Vince Gilligan & Peter Gould",
+    "kualitas": "WEBDL",
+    "sinopsis": "Prekuel dari Breaking Bad yang mengisahkan transformasi Jimmy McGill, pengacara berhati baik yang berjuang untuk hidupnya, menjadi Saul Goodman, pengacara kriminal yang licik dan amoral.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/fC2HDm5t0kHl7mTp7t0B6Entup7.jpg",
+    "link": "#"
+  },
+  {
+    "id": 35,
+    "judul": "The Bear",
+    "tipe": "Series",
+    "rating": "8.6",
+    "durasi": "30 min/ep",
+    "tahun": 2022,
+    "sutradara": "Christopher Storer",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang koki berbintang Michelin kembali ke Chicago untuk menjalankan restoran sandwich keluarganya setelah kematian kakak laki-lakinya. Ia berjuang mempertahankan bisnis sambil mengatasi trauma dan duka.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg",
+    "link": "#"
+  },
+  {
+    "id": 36,
+    "judul": "Yellowstone",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "45 min/ep",
+    "tahun": 2018,
+    "sutradara": "Taylor Sheridan",
+    "kualitas": "WEBDL",
+    "sinopsis": "Keluarga Dutton mempertahankan peternakan terbesar di Amerika Serikat dari ancaman pengembang properti, taman nasional, dan reservasi Indian Montana. Drama keluarga yang penuh kekerasan dan intrik politik barat.",
+    "genres": [
+      "Drama",
+      "Western",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/FoGWyIPYMPhJrBjJyBjJySCCCv.jpg",
+    "link": "#"
+  },
+  {
+    "id": 37,
+    "judul": "Suits",
+    "tipe": "Series",
+    "rating": "8.4",
+    "durasi": "44 min/ep",
+    "tahun": 2011,
+    "sutradara": "Aaron Korsh",
+    "kualitas": "WEBDL",
+    "sinopsis": "Mike Ross, seorang jenius yang tidak punya gelar hukum, bekerja sebagai pengacara di firma hukum elit New York bersama Harvey Specter. Kedua pria ini harus menyembunyikan rahasia besar sambil menangani kasus-kasus tingkat tinggi.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/2Nm9PmCiLEiMt5m5BYL2Rnk6gQ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 38,
+    "judul": "Dexter",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "47 min/ep",
+    "tahun": 2006,
+    "sutradara": "James Manos Jr.",
+    "kualitas": "WEBDL",
+    "sinopsis": "Dexter Morgan adalah analisis forensik darah siang hari di departemen kepolisian Miami, dan di malam hari ia adalah pembunuh berantai yang membidik para kriminal yang lolos dari jeratan hukum.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/58H6Ctze3RkzJn9bXNrBpSPGMbF.jpg",
+    "link": "#"
+  },
+  {
+    "id": 39,
+    "judul": "The Expanse",
+    "tipe": "Series",
+    "rating": "8.5",
+    "durasi": "43 min/ep",
+    "tahun": 2015,
+    "sutradara": "Mark Fergus & Hawk Ostby",
+    "kualitas": "WEBDL",
+    "sinopsis": "Dua abad di masa depan, tata surya telah dihuni oleh manusia. Seorang detektif dan kapten kapal tanker menemukan konspirasi yang mengancam keseimbangan rapuh antara Bumi, Mars, dan sabuk asteroid.",
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Mystery"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/k8bOB5aM0e48sMvnNVOQXFe2iDJ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 40,
+    "judul": "Westworld",
+    "tipe": "Series",
+    "rating": "8.6",
+    "durasi": "62 min/ep",
+    "tahun": 2016,
+    "sutradara": "Jonathan Nolan & Lisa Joy",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di taman hiburan futuristik berbentuk Wild West yang diisi oleh robot antropomorfis, para pengunjung kaya dapat mengerjakan fantasi apapun. Namun ketika beberapa host mulai memperoleh kesadaran, kekacauan muncul.",
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Western"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/8MfgyFHR7WEMBn75NpdJSAcqvoz.jpg",
+    "link": "#"
+  },
+  {
+    "id": 41,
+    "judul": "Invincible",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "45 min/ep",
+    "tahun": 2021,
+    "sutradara": "Robert Kirkman",
+    "kualitas": "WEBDL",
+    "sinopsis": "Mark Grayson adalah remaja normal kecuali bahwa ayahnya adalah pahlawan super paling kuat di planet ini, Omni-Man. Ketika kekuatannya sendiri mulai muncul, ia memasuki dunia pahlawan super yang jauh lebih kompleks dari yang terlihat.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Sci-Fi",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+    "link": "#"
+  },
+  {
+    "id": 42,
+    "judul": "Andor",
+    "tipe": "Series",
+    "rating": "8.3",
+    "durasi": "44 min/ep",
+    "tahun": 2022,
+    "sutradara": "Tony Gilroy",
+    "kualitas": "WEBDL",
+    "sinopsis": "Prekuel dari Rogue One yang mengisahkan awal mula Cassian Andor bergabung dengan Pemberontakan melawan Kekaisaran Galaktik, dengan tone yang gelap dan realistis tentang biaya perjuangan revolusi.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg",
+    "link": "#"
+  },
+  {
+    "id": 43,
+    "judul": "The Crown",
+    "tipe": "Series",
+    "rating": "8.6",
+    "durasi": "58 min/ep",
+    "tahun": 2016,
+    "sutradara": "Peter Morgan",
+    "kualitas": "WEBDL",
+    "sinopsis": "Drama kolosal yang mendokumentasikan kehidupan Ratu Elizabeth II dan pemerintahannya selama beberapa dekade, mengungkap intrik dan konflik internal Keluarga Kerajaan Inggris serta tokoh-tokoh berpengaruh di zamannya.",
+    "genres": [
+      "Drama",
+      "History",
+      "Biography"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/1M876KPjulVwppTsc4sqGLxi6Xt.jpg",
+    "link": "#"
+  },
+  {
+    "id": 44,
+    "judul": "The Pacific",
+    "tipe": "Series",
+    "rating": "8.3",
+    "durasi": "60 min/ep",
+    "tahun": 2010,
+    "sutradara": "Steven Spielberg & Tom Hanks",
+    "kualitas": "BLURAY",
+    "sinopsis": "Miniseri kompanion Band of Brothers yang mengikuti tiga anggota marinir Amerika dalam pertempuran berdarah di Teater Pasifik melawan Jepang selama Perang Dunia II.",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9jCuHGrFovmMVLJGzTVRaTJ9EQ4.jpg",
+    "link": "#"
+  },
+  {
+    "id": 45,
+    "judul": "The Americans",
+    "tipe": "Series",
+    "rating": "8.5",
+    "durasi": "45 min/ep",
+    "tahun": 2013,
+    "sutradara": "Joe Weisberg",
+    "kualitas": "WEBDL",
+    "sinopsis": "Selama Perang Dingin di Amerika Serikat tahun 1980-an, dua agen KGB Soviet yang menyamar sebagai pasangan suami istri Amerika biasa mencoba mempertahankan penampilan sambil menjalankan operasi spionase berbahaya.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Spy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7vRtHKNXIHECyGdJNkqZfKRsOKa.jpg",
+    "link": "#"
+  },
+  {
+    "id": 46,
+    "judul": "Reacher",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "50 min/ep",
+    "tahun": 2022,
+    "sutradara": "Nick Santora",
+    "kualitas": "WEBDL",
+    "sinopsis": "Jack Reacher, mantan investigator militer yang terlatih, tiba di kota kecil Margrave, Georgia dan langsung ditangkap atas tuduhan pembunuhan. Ia harus mengungkap konspirasi besar yang menyembunyikan kebenaran.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/6tHeKfVTBRjzHUkGNpQHa5bMlgM.jpg",
+    "link": "#"
+  },
+  {
+    "id": 47,
+    "judul": "The Penguin",
+    "tipe": "Series",
+    "rating": "8.6",
+    "durasi": "55 min/ep",
+    "tahun": 2024,
+    "sutradara": "Lauren LeFranc",
+    "kualitas": "WEBDL",
+    "sinopsis": "Spin-off dari The Batman yang mengikuti Oz Cobb alias Penguin dalam menanjak untuk menguasai dunia kejahatan Gotham pasca kematian Carmine Falcone. Perang antar keluarga kriminal yang brutal pun dimulai.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "link": "#"
+  },
+  {
+    "id": 48,
+    "judul": "3 Body Problem",
+    "tipe": "Series",
+    "rating": "7.5",
+    "durasi": "55 min/ep",
+    "tahun": 2024,
+    "sutradara": "David Benioff & D.B. Weiss",
+    "kualitas": "WEBDL",
+    "sinopsis": "Adaptasi dari novel fiksi ilmiah Tiongkok oleh Liu Cixin. Kisah dimulai saat seorang ilmuwan Tiongkok mengirim sinyal ke luar angkasa yang terjawab, memulai hitungan mundur menuju invasi alien yang akan datang dalam 400 tahun.",
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Mystery"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/AtIZAdSLMwkuC0z77r6b8XXWJXB.jpg",
+    "link": "#"
+  },
+  {
+    "id": 49,
+    "judul": "The Gentlemen (Series)",
+    "tipe": "Series",
+    "rating": "8.3",
+    "durasi": "50 min/ep",
+    "tahun": 2024,
+    "sutradara": "Guy Ritchie",
+    "kualitas": "WEBDL",
+    "sinopsis": "Eddie Horniman mewarisi gelar bangsawan ayahnya beserta seluruh tanah pertaniannya di Inggris, hanya untuk menemukan bahwa tanahnya adalah tempat operasi kerajaan ganja yang dikelola oleh jaringan kriminal berbahaya.",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/vUUqzWa2LnHIVqkaKVn3nyfVnBL.jpg",
+    "link": "#"
+  },
+  {
+    "id": 50,
+    "judul": "1883",
+    "tipe": "Series",
+    "rating": "8.7",
+    "durasi": "60 min/ep",
+    "tahun": 2021,
+    "sutradara": "Taylor Sheridan",
+    "kualitas": "WEBDL",
+    "sinopsis": "Prekuel Yellowstone yang mengisahkan nenek moyang keluarga Dutton yang memulai perjalanan berbahaya dari Texas menuju Montana pada tahun 1883, melintasi Great Plains yang tidak bersahabat.",
+    "genres": [
+      "Drama",
+      "Western",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/FoGWyIPYMPhJrBjJyBjJySCCCv.jpg",
+    "link": "#"
+  },
+  {
+    "id": 51,
+    "judul": "Slow Horses",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "48 min/ep",
+    "tahun": 2022,
+    "sutradara": "Mick Herron",
+    "kualitas": "WEBDL",
+    "sinopsis": "Agen MI5 yang diasingkan ke Slough House karena kesalahan karir, dipimpin oleh Jackson Lamb yang kasar dan jenius, terlibat dalam operasi intelijen berbahaya yang menyentuh jantung sistem intelijen Inggris.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Spy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/6tHeKfVTBRjzHUkGNpQHa5bMlgM.jpg",
+    "link": "#"
+  },
+  {
+    "id": 52,
+    "judul": "True Detective: Night Country",
+    "tipe": "Series",
+    "rating": "7.7",
+    "durasi": "60 min/ep",
+    "tahun": 2024,
+    "sutradara": "Issa Lopez",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di kota kecil Ennis, Alaska di tengah musim dingin gelap abadi, dua detektif wanita yang saling membenci harus bekerja sama menyelidiki hilangnya delapan ilmuwan dari stasiun penelitian Arktik.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Horror"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/mMZRKb3NVo5ZeSPEIaNW9buYEoD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 53,
+    "judul": "Lost",
+    "tipe": "Series",
+    "rating": "8.3",
+    "durasi": "43 min/ep",
+    "tahun": 2004,
+    "sutradara": "J.J. Abrams",
+    "kualitas": "BLURAY",
+    "sinopsis": "Para penyintas kecelakaan pesawat Oceanic Airlines di pulau misterius di Samudra Pasifik menemukan bahwa pulau itu penuh misteri supernatural, kelompok berbahaya, dan fakta bahwa tidak ada yang kebetulan.",
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Mystery",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/ognjgOKKHs7CSEKLpPiJ3sT5bCi.jpg",
+    "link": "#"
+  },
+  {
+    "id": 54,
+    "judul": "Yellowjackets",
+    "tipe": "Series",
+    "rating": "7.9",
+    "durasi": "55 min/ep",
+    "tahun": 2021,
+    "sutradara": "Ashley Lyle & Bart Nickerson",
+    "kualitas": "WEBDL",
+    "sinopsis": "Tim sepak bola wanita SMA mengalami kecelakaan pesawat di hutan terpencil Kanada pada 1996. Seri ini mengisahkan bagaimana mereka bertahan hidup dan 25 tahun kemudian, sisa-sisa masa lalu kembali menghantui mereka.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller",
+      "Horror"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/qhBL6PBr94MaBIDeZuiRqGmBPaC.jpg",
+    "link": "#"
+  },
+  {
+    "id": 55,
+    "judul": "The Terror",
+    "tipe": "Series",
+    "rating": "8.0",
+    "durasi": "50 min/ep",
+    "tahun": 2018,
+    "sutradara": "David Kajganich",
+    "kualitas": "WEBDL",
+    "sinopsis": "Berdasarkan kisah nyata ekspedisi Franklin 1845, dua kapal Royal Navy terjebak di es Arktik. Awak kapal yang berjuang melawan alam beku dan kelaparan juga harus menghadapi makhluk misterius yang memburu mereka.",
+    "genres": [
+      "Horror",
+      "Drama",
+      "History",
+      "Mystery"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+    "link": "#"
+  },
+  {
+    "id": 56,
+    "judul": "Station Eleven",
+    "tipe": "Series",
+    "rating": "8.1",
+    "durasi": "50 min/ep",
+    "tahun": 2021,
+    "sutradara": "Patrick Somerville",
+    "kualitas": "WEBDL",
+    "sinopsis": "Dua puluh tahun setelah pandemi flu yang menghancurkan peradaban, sekelompok seniman pengembara menampilkan pertunjukan Shakespeare sambil bernavigasi melalui kehidupan di Danau Michigan yang telah berubah total.",
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Mystery"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/yvPCbPiOsPWXFdBPvpFNipqoHKl.jpg",
+    "link": "#"
+  },
+  {
+    "id": 57,
+    "judul": "Foundation",
+    "tipe": "Series",
+    "rating": "7.4",
+    "durasi": "60 min/ep",
+    "tahun": 2021,
+    "sutradara": "David S. Goyer",
+    "kualitas": "WEBDL",
+    "sinopsis": "Berdasarkan novel klasik Isaac Asimov. Matematikawan Hari Seldon meramalkan kejatuhan Kekaisaran Galaktik dan mendirikan Foundation untuk menjaga pengetahuan umat manusia selama masa-masa gelap yang akan datang.",
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/AtIZAdSLMwkuC0z77r6b8XXWJXB.jpg",
+    "link": "#"
+  },
+  {
+    "id": 58,
+    "judul": "The Umbrella Academy",
+    "tipe": "Series",
+    "rating": "7.9",
+    "durasi": "55 min/ep",
+    "tahun": 2019,
+    "sutradara": "Steve Blackman",
+    "kualitas": "WEBDL",
+    "sinopsis": "Tujuh anak yang lahir secara misterius diadopsi oleh miliarder eksentrik dan dilatih menjadi pahlawan super. Bertahun-tahun kemudian, mereka berkumpul kembali dan menghadapi ancaman kiamat yang tak terduga.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Comedy",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7e0CFKSfefDFLs9U8MjqUcSYm89.jpg",
+    "link": "#"
+  },
+  {
+    "id": 59,
+    "judul": "The Last of Us Season 2",
+    "tipe": "Series",
+    "rating": "8.5",
+    "durasi": "55 min/ep",
+    "tahun": 2025,
+    "sutradara": "Craig Mazin & Neil Druckmann",
+    "kualitas": "WEBDL",
+    "sinopsis": "Lima tahun setelah peristiwa Season 1, Joel dan Ellie hidup di komunitas Jackson, Wyoming. Namun kedatangan orang-orang berbahaya dari masa lalu memaksa Ellie untuk memulai perjalanan baru yang penuh dendam.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Action"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+    "link": "#"
+  },
+  {
+    "id": 60,
+    "judul": "Squid Game Season 2",
+    "tipe": "Series",
+    "rating": "7.6",
+    "durasi": "40-60 min/ep",
+    "tahun": 2024,
+    "sutradara": "Hwang Dong-hyuk",
+    "kualitas": "WEBDL",
+    "sinopsis": "Gi-hun, pemenang Squid Game pertama, kembali mencari organisasi di balik permainan mematikan itu alih-alih pergi ke Amerika. Ia memasuki permainan sekali lagi dengan tujuan menghancurkannya dari dalam.",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Action"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+    "link": "#"
+  },
+  {
+    "id": 61,
+    "judul": "Arcane Season 2",
+    "tipe": "Series",
+    "rating": "9.1",
+    "durasi": "40 min/ep",
+    "tahun": 2024,
+    "sutradara": "Pascal Charrue & Arnaud Delord",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kelanjutan epik saga Jinx dan Vi di dunia League of Legends. Konflik antara Piltover dan Zaun semakin memuncak setelah ledakan besar, sementara kekuatan baru yang tidak dipahami siapapun mulai bangkit.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+    "link": "#"
+  }
+]

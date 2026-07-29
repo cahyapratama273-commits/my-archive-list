@@ -1,0 +1,2304 @@
+[
+  {
+    "id": 1,
+    "judul": "Saving Private Ryan",
+    "tipe": "Movie",
+    "rating": "8.6",
+    "durasi": "169 min",
+    "tahun": 1998,
+    "sutradara": "Steven Spielberg",
+    "kualitas": "BLURAY",
+    "sinopsis": "Setelah pendaratan Normandia di Perang Dunia II, Kapten John Miller menerima misi berbahaya di balik garis pertahanan musuh. Ia memimpin pasukannya dalam upaya mempertaruhkan nyawa demi menemukan dan membawa pulang Prajurit James Ryan, satu-satunya saudara yang tersisa dari empat bersaudara yang tewas di medan perang.",
+    "genres": [
+      "Action",
+      "War",
+      "Drama",
+      "History"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "judul": "John Wick",
+    "tipe": "Movie",
+    "rating": "7.4",
+    "durasi": "101 min",
+    "tahun": 2014,
+    "sutradara": "Chad Stahelski",
+    "kualitas": "BLURAY",
+    "sinopsis": "John Wick adalah seorang pensiunan pembunuh bayaran legendaris yang mencoba hidup tenang setelah kematian istrinya. Namun, ketika putra seorang bos mafia mencuri mobil dan membunuh anak anjing pemberian terakhir mendiang istrinya, John kembali ke dunia bawah tanah yang penuh kekerasan.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "judul": "John Wick: Chapter 2",
+    "tipe": "Movie",
+    "rating": "7.5",
+    "durasi": "122 min",
+    "tahun": 2017,
+    "sutradara": "Chad Stahelski",
+    "kualitas": "BLURAY",
+    "sinopsis": "John Wick dipaksa keluar dari masa pensiunnya oleh seorang gangster Italia yang memanggilnya untuk melunasi hutang darah lama. Petualangan berbahaya di dunia pembunuh bayaran bawah tanah yang membawa John ke Roma dan kembali ke New York.",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "judul": "John Wick: Chapter 3 - Parabellum",
+    "tipe": "Movie",
+    "rating": "7.4",
+    "durasi": "130 min",
+    "tahun": 2019,
+    "sutradara": "Chad Stahelski",
+    "kualitas": "BLURAY",
+    "sinopsis": "John Wick dalam status excommunicado dengan bounty 14 juta dollar, diburu oleh setiap pembunuh bayaran di New York. Ia harus melarikan diri ke Casablanca dan mencari pemimpin tertinggi meja bundar untuk mendapatkan ampunan.",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "judul": "John Wick: Chapter 4",
+    "tipe": "Movie",
+    "rating": "7.7",
+    "durasi": "169 min",
+    "tahun": 2023,
+    "sutradara": "Chad Stahelski",
+    "kualitas": "BLURAY",
+    "sinopsis": "John Wick menemukan cara untuk mengalahkan High Table, tetapi sebelum bisa mendapatkan kebebasannya, ia harus menghadapi musuh baru yang kuat yang memiliki aliansi di seluruh dunia dan bersedia mengorbankan segalanya.",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "judul": "World War Z",
+    "tipe": "Movie",
+    "rating": "7.0",
+    "durasi": "116 min",
+    "tahun": 2013,
+    "sutradara": "Marc Forster",
+    "kualitas": "WEBDL",
+    "sinopsis": "Ketika pandemi zombi global yang mematikan mulai melumpuhkan peradaban manusia, mantan penyelidik PBB Gerry Lane berkeliling dunia dalam misi putus asa untuk mencari sumber wabah dan cara menghentikan penyebaran virus.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
+    "link": "#"
+  },
+  {
+    "id": 7,
+    "judul": "Interstellar",
+    "tipe": "Movie",
+    "rating": "8.6",
+    "durasi": "169 min",
+    "tahun": 2014,
+    "sutradara": "Christopher Nolan",
+    "kualitas": "BLURAY",
+    "sinopsis": "Di tengah bumi yang sekarat karena bencana ekologis, mantan pilot NASA Cooper memimpin misi penjelajahan ruang angkasa melintasi lubang cacing untuk mencari planet baru yang dapat dihuni bagi umat manusia.",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+    "link": "#"
+  },
+  {
+    "id": 8,
+    "judul": "Avengers: Endgame",
+    "tipe": "Movie",
+    "rating": "8.4",
+    "durasi": "181 min",
+    "tahun": 2019,
+    "sutradara": "Anthony & Joe Russo",
+    "kualitas": "BLURAY",
+    "sinopsis": "Setelah kehancuran yang disebabkan oleh Thanos, para pahlawan yang tersisa bersatu untuk sekali lagi melakukan misi yang mustahil. Mereka harus menempuh perjalanan melintasi waktu demi memulihkan keteraturan alam semesta.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+    "link": "#"
+  },
+  {
+    "id": 9,
+    "judul": "Minecraft Movie",
+    "tipe": "Movie",
+    "rating": "6.2",
+    "durasi": "101 min",
+    "tahun": 2025,
+    "sutradara": "Jared Hess",
+    "kualitas": "WEBDL",
+    "sinopsis": "Empat orang asing terseret melalui portal misterius ke Overworld, sebuah negeri ajaib berbentuk kotak. Untuk bisa kembali pulang, mereka harus menguasai dunia tersebut dan melindungi keajaibannya dari ancaman jahat.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure",
+      "Family"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+    "link": "#"
+  },
+  {
+    "id": 10,
+    "judul": "Midway",
+    "tipe": "Movie",
+    "rating": "6.7",
+    "durasi": "138 min",
+    "tahun": 2019,
+    "sutradara": "Roland Emmerich",
+    "kualitas": "BLURAY",
+    "sinopsis": "Berdasarkan kisah nyata, film ini menceritakan salah satu pertempuran laut paling menentukan dalam sejarah Perang Dunia II antara armada Amerika Serikat dan Kekaisaran Jepang di Samudra Pasifik.",
+    "genres": [
+      "Action",
+      "War",
+      "History"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg",
+    "link": "#"
+  },
+  {
+    "id": 11,
+    "judul": "The Avengers",
+    "tipe": "Movie",
+    "rating": "8.0",
+    "durasi": "143 min",
+    "tahun": 2012,
+    "sutradara": "Joss Whedon",
+    "kualitas": "BLURAY",
+    "sinopsis": "Direktur S.H.I.E.L.D. Nick Fury menyatukan sekelompok pahlawan super terkuat di Bumi untuk membentuk tim elit demi menghentikan ancaman invasi alien yang dipimpin oleh Loki.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "link": "#"
+  },
+  {
+    "id": 12,
+    "judul": "Avengers: Age of Ultron",
+    "tipe": "Movie",
+    "rating": "7.3",
+    "durasi": "141 min",
+    "tahun": 2015,
+    "sutradara": "Joss Whedon",
+    "kualitas": "BLURAY",
+    "sinopsis": "Ketika Tony Stark mencoba mengaktifkan program perdamaian global, kecerdasan buatan bernama Ultron justru tercipta dengan rencana radikal untuk memusnahkan umat manusia.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+    "link": "#"
+  },
+  {
+    "id": 13,
+    "judul": "Avengers: Infinity War",
+    "tipe": "Movie",
+    "rating": "8.4",
+    "durasi": "149 min",
+    "tahun": 2018,
+    "sutradara": "Anthony & Joe Russo",
+    "kualitas": "BLURAY",
+    "sinopsis": "Para Avengers dan sekutunya harus mempertaruhkan segalanya dalam pertempuran terbesar melawan Thanos sebelum ia berhasil mengumpulkan keenam Infinity Stones untuk memusnahkan setengah semesta.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "link": "#"
+  },
+  {
+    "id": 14,
+    "judul": "Black Hawk Down",
+    "tipe": "Movie",
+    "rating": "7.7",
+    "durasi": "144 min",
+    "tahun": 2001,
+    "sutradara": "Ridley Scott",
+    "kualitas": "BLURAY",
+    "sinopsis": "Kisah nyata misi militer elit tentara Amerika Serikat di Mogadishu, Somalia, yang berubah menjadi bencana pertempuran kota yang mengerikan setelah dua helikopter Black Hawk ditembak jatuh.",
+    "genres": [
+      "Action",
+      "War",
+      "History"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+    "link": "#"
+  },
+  {
+    "id": 15,
+    "judul": "American Sniper",
+    "tipe": "Movie",
+    "rating": "7.3",
+    "durasi": "133 min",
+    "tahun": 2014,
+    "sutradara": "Clint Eastwood",
+    "kualitas": "BLURAY",
+    "sinopsis": "Kisah nyata Chris Kyle, sniper paling mematikan dalam sejarah militer Amerika Serikat, yang presisi tembakannya menyelamatkan banyak nyawa di medan perang namun menyisakan trauma berat di kehidupan rumah tangga.",
+    "genres": [
+      "Action",
+      "War",
+      "History",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
+    "link": "#"
+  },
+  {
+    "id": 16,
+    "judul": "Valkyrie",
+    "tipe": "Movie",
+    "rating": "7.5",
+    "durasi": "121 min",
+    "tahun": 2008,
+    "sutradara": "Bryan Singer",
+    "kualitas": "BLURAY",
+    "sinopsis": "Terluka di Afrika selama Perang Dunia II, Kolonel Nazi Claus von Stauffenberg bergabung dengan gerakan perlawanan dalam rencana berani untuk membunuh Adolf Hitler dan menciptakan pemerintahan bayangan.",
+    "genres": [
+      "War",
+      "History",
+      "Drama",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/8eoRtXswC8IQDsqW7iJWO56NhAv.jpg",
+    "link": "#"
+  },
+  {
+    "id": 17,
+    "judul": "Inception",
+    "tipe": "Movie",
+    "rating": "8.8",
+    "durasi": "148 min",
+    "tahun": 2010,
+    "sutradara": "Christopher Nolan",
+    "kualitas": "BLURAY",
+    "sinopsis": "Dom Cobb adalah pencuri ahli yang merampok rahasia berharga dari dalam alam bawah sadar seseorang saat tidur, kini diberi misi terbalik untuk menanamkan ide ke dalam pikiran target.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+    "link": "#"
+  },
+  {
+    "id": 18,
+    "judul": "The Dark Knight",
+    "tipe": "Movie",
+    "rating": "9.0",
+    "durasi": "152 min",
+    "tahun": 2008,
+    "sutradara": "Christopher Nolan",
+    "kualitas": "BLURAY",
+    "sinopsis": "Batman menghadapi tantangan psikologis dan moral terbesar saat seorang kriminal anarkis jenius berwajah badut, Joker, meneror kota Gotham dan memicu kekacauan total yang mempertanyakan nilai-nilai heroisme.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "link": "#"
+  },
+  {
+    "id": 19,
+    "judul": "Fast X",
+    "tipe": "Movie",
+    "rating": "5.8",
+    "durasi": "141 min",
+    "tahun": 2023,
+    "sutradara": "Louis Leterrier",
+    "kualitas": "WEBDL",
+    "sinopsis": "Dom Toretto dan keluarganya menghadapi lawan paling mematikan yang pernah mereka hadapi: ancaman mengerikan yang muncul dari bayang-bayang masa lalu, yang didorong oleh dendam berdarah.",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+    "link": "#"
+  },
+  {
+    "id": 20,
+    "judul": "Fury",
+    "tipe": "Movie",
+    "rating": "7.6",
+    "durasi": "134 min",
+    "tahun": 2014,
+    "sutradara": "David Ayer",
+    "kualitas": "BLURAY",
+    "sinopsis": "Di hari-hari terakhir Perang Dunia II, seorang komandan tank Angkatan Darat AS memimpin lima kru setianya dalam misi bertahan hidup yang mematikan di balik garis pertahanan Jerman Nazi.",
+    "genres": [
+      "Action",
+      "War",
+      "Drama"
+    ],
+    "img": "https://m.media-amazon.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_.jpg",
+    "link": "#"
+  },
+  {
+    "id": 21,
+    "judul": "Dunkirk",
+    "tipe": "Movie",
+    "rating": "7.9",
+    "durasi": "106 min",
+    "tahun": 2017,
+    "sutradara": "Christopher Nolan",
+    "kualitas": "BLURAY",
+    "sinopsis": "Kisah penyelamatan menegangkan ratusan ribu tentara Sekutu yang dikepung oleh pasukan musuh di pantai Dunkirk, Prancis, menggunakan kombinasi armada militer dan kapal sipil warga biasa.",
+    "genres": [
+      "Action",
+      "War",
+      "History",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+    "link": "#"
+  },
+  {
+    "id": 22,
+    "judul": "1917",
+    "tipe": "Movie",
+    "rating": "8.3",
+    "durasi": "119 min",
+    "tahun": 2019,
+    "sutradara": "Sam Mendes",
+    "kualitas": "BLURAY",
+    "sinopsis": "Dua tentara muda Inggris selama Perang Dunia Pertama diberikan misi mustahil melintasi wilayah musuh demi menyampaikan pesan mendesak yang dapat menyelamatkan ribuan nyawa rekannya.",
+    "genres": [
+      "Action",
+      "War",
+      "History",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+    "link": "#"
+  },
+  {
+    "id": 23,
+    "judul": "Lone Survivor",
+    "tipe": "Movie",
+    "rating": "7.5",
+    "durasi": "121 min",
+    "tahun": 2013,
+    "sutradara": "Peter Berg",
+    "kualitas": "BLURAY",
+    "sinopsis": "Berdasarkan kisah nyata empat anggota Navy SEAL dalam misi pengintaian rahasia di Afghanistan yang berujung pada baku tembak brutal melawan pasukan Taliban yang mengepung mereka di pegunungan.",
+    "genres": [
+      "Action",
+      "War",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg",
+    "link": "#"
+  },
+  {
+    "id": 24,
+    "judul": "Hacksaw Ridge",
+    "tipe": "Movie",
+    "rating": "8.1",
+    "durasi": "139 min",
+    "tahun": 2016,
+    "sutradara": "Mel Gibson",
+    "kualitas": "BLURAY",
+    "sinopsis": "Kisah nyata Desmond Doss, seorang petugas medis tentara AS penganut pasifisme yang menolak memegang senjata namun berhasil menyelamatkan 75 rekannya sendirian di pertempuran berdarah Okinawa.",
+    "genres": [
+      "Action",
+      "War",
+      "History",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg",
+    "link": "#"
+  },
+  {
+    "id": 25,
+    "judul": "The Matrix",
+    "tipe": "Movie",
+    "rating": "8.7",
+    "durasi": "136 min",
+    "tahun": 1999,
+    "sutradara": "The Wachowskis",
+    "kualitas": "BLURAY",
+    "sinopsis": "Seorang programmer komputer bernama Neo menemukan kenyataan pahit bahwa dunia yang ia tinggali selama ini hanyalah simulasi virtual yang dikendalikan oleh mesin cerdas.",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+    "link": "#"
+  },
+  {
+    "id": 26,
+    "judul": "The Truman Show",
+    "tipe": "Movie",
+    "rating": "8.1",
+    "durasi": "103 min",
+    "tahun": 1998,
+    "sutradara": "Peter Weir",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di sebuah kota tepi laut yang tampak sempurna, seorang salesman asuransi mulai menyadari bahwa seluruh keberadaannya mungkin dipentaskan dan diamati oleh khalayak luas sebagai bagian dari acara reality TV langsung.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+    "link": "#"
+  },
+  {
+    "id": 27,
+    "judul": "Oppenheimer",
+    "tipe": "Movie",
+    "rating": "8.3",
+    "durasi": "180 min",
+    "tahun": 2023,
+    "sutradara": "Christopher Nolan",
+    "kualitas": "BLURAY",
+    "sinopsis": "Kisah biografi J. Robert Oppenheimer, fisikawan brilian yang memimpin Proyek Manhattan untuk mengembangkan bom atom pertama di dunia, mengubah jalannya sejarah geopolitik selamanya.",
+    "genres": [
+      "Drama",
+      "History",
+      "Biography"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "link": "#"
+  },
+  {
+    "id": 28,
+    "judul": "Dune",
+    "tipe": "Movie",
+    "rating": "8.0",
+    "durasi": "155 min",
+    "tahun": 2021,
+    "sutradara": "Denis Villeneuve",
+    "kualitas": "BLURAY",
+    "sinopsis": "Paul Atreides, seorang pemuda berbakat, harus melakukan perjalanan ke planet paling berbahaya di alam semesta demi mengamankan masa depan keluarga dan rakyatnya dari konspirasi feodal antargalaksi.",
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 29,
+    "judul": "Dune: Part Two",
+    "tipe": "Movie",
+    "rating": "8.5",
+    "durasi": "166 min",
+    "tahun": 2024,
+    "sutradara": "Denis Villeneuve",
+    "kualitas": "BLURAY",
+    "sinopsis": "Paul Atreides bersatu dengan Chani dan suku Fremen untuk membalas dendam terhadap para konspirator yang menghancurkan keluarganya, berusaha mencegah masa depan kelam yang ia ramalkan.",
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Action"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 30,
+    "judul": "Mad Max: Fury Road",
+    "tipe": "Movie",
+    "rating": "8.1",
+    "durasi": "120 min",
+    "tahun": 2015,
+    "sutradara": "George Miller",
+    "kualitas": "BLURAY",
+    "sinopsis": "Di dunia pasca-apokaliptik yang gersang, Max bergabung dengan Imperator Furiosa dalam pelarian menegangkan melintasi padang pasir demi membebaskan sekelompok wanita dari cengkeraman tiran kejam.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+    "link": "#"
+  },
+  {
+    "id": 31,
+    "judul": "TENET",
+    "tipe": "Movie",
+    "rating": "7.3",
+    "durasi": "150 min",
+    "tahun": 2020,
+    "sutradara": "Christopher Nolan",
+    "kualitas": "BLURAY",
+    "sinopsis": "Seorang agen rahasia dipersenjatai dengan satu kata misterius bertarung melintasi waktu demi mencegah terjadinya kehancuran dunia akibat teknologi pembalik entropi fisik.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+    "link": "#"
+  },
+  {
+    "id": 32,
+    "judul": "Extraction",
+    "tipe": "Movie",
+    "rating": "6.9",
+    "durasi": "116 min",
+    "tahun": 2020,
+    "sutradara": "Sam Hargrave",
+    "kualitas": "WEBDL",
+    "sinopsis": "Tyler Rake, seorang tentara bayaran pasar gelap yang tak kenal takut, memulai misi penyelamatan paling berbahaya dalam hidupnya untuk mengekstraksi putra seorang gembong narkoba internasional yang diculik.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+    "link": "#"
+  },
+  {
+    "id": 33,
+    "judul": "Extraction 2",
+    "tipe": "Movie",
+    "rating": "7.0",
+    "durasi": "122 min",
+    "tahun": 2023,
+    "sutradara": "Sam Hargrave",
+    "kualitas": "WEBDL",
+    "sinopsis": "Setelah berhasil lolos dari kematian, Tyler Rake kembali direkrut untuk menyelamatkan keluarga seorang gangster Georgia yang kejam dari penjara tempat mereka disekap.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
+    "link": "#"
+  },
+  {
+    "id": 34,
+    "judul": "Top Gun: Maverick",
+    "tipe": "Movie",
+    "rating": "8.2",
+    "durasi": "130 min",
+    "tahun": 2022,
+    "sutradara": "Joseph Kosinski",
+    "kualitas": "BLURAY",
+    "sinopsis": "Setelah lebih dari tiga puluh tahun mengabdi, Pete Maverick Mitchell kembali ke sekolah elit Top Gun untuk melatih sekelompok pilot muda demi sebuah misi khusus yang menuntut pengorbanan tertinggi.",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+    "link": "#"
+  },
+  {
+    "id": 35,
+    "judul": "Bullet Train",
+    "tipe": "Movie",
+    "rating": "7.3",
+    "durasi": "126 min",
+    "tahun": 2022,
+    "sutradara": "David Leitch",
+    "kualitas": "WEBDL",
+    "sinopsis": "Lima pembunuh bayaran mendapati diri mereka berada di dalam kereta cepat yang sama dari Tokyo menuju Kyoto, hanya untuk menyadari bahwa misi mereka saling bertentangan dan berkaitan satu sama lain.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+    "link": "#"
+  },
+  {
+    "id": 36,
+    "judul": "Nobody",
+    "tipe": "Movie",
+    "rating": "7.4",
+    "durasi": "92 min",
+    "tahun": 2021,
+    "sutradara": "Ilya Naishuller",
+    "kualitas": "WEBDL",
+    "sinopsis": "Hutch Mansell, seorang ayah rumah tangga biasa yang kerap diremehkan, memicu kembali keterampilan masa lalunya yang mematikan setelah insiden perampokan rumahnya membangunkan insting petarungnya.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+    "link": "#"
+  },
+  {
+    "id": 37,
+    "judul": "The Gray Man",
+    "tipe": "Movie",
+    "rating": "6.4",
+    "durasi": "122 min",
+    "tahun": 2022,
+    "sutradara": "Anthony & Joe Russo",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang agen CIA bayangan paling terampil secara tidak sengaja mengungkap rahasia gelap agensinya, menjadikannya target utama yang diburu oleh pembunuh bayaran psikopat di seluruh dunia.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
+    "link": "#"
+  },
+  {
+    "id": 38,
+    "judul": "Sicario",
+    "tipe": "Movie",
+    "rating": "7.6",
+    "durasi": "121 min",
+    "tahun": 2015,
+    "sutradara": "Denis Villeneuve",
+    "kualitas": "BLURAY",
+    "sinopsis": "Seorang agen FBI idealis direkrut oleh gugus tugas pemerintah rahasia untuk membantu memerangi kartel narkoba di perbatasan AS-Meksiko yang penuh kebrutalan dan dilema moral.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+    "link": "#"
+  },
+  {
+    "id": 39,
+    "judul": "Prometheus",
+    "tipe": "Movie",
+    "rating": "7.0",
+    "durasi": "124 min",
+    "tahun": 2012,
+    "sutradara": "Ridley Scott",
+    "kualitas": "BLURAY",
+    "sinopsis": "Sekelompok ilmuwan melakukan perjalanan ke ujung alam semesta untuk mencari asal-usul penciptaan umat manusia, namun justru menemukan ancaman biologis purba yang dapat memusnahkan seluruh kehidupan Bumi.",
+    "genres": [
+      "Sci-Fi",
+      "Horror",
+      "Mystery"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
+    "link": "#"
+  },
+  {
+    "id": 40,
+    "judul": "Alien: Romulus",
+    "tipe": "Movie",
+    "rating": "7.3",
+    "durasi": "119 min",
+    "tahun": 2024,
+    "sutradara": "Fede Alvarez",
+    "kualitas": "WEBDL",
+    "sinopsis": "Sekelompok penjelajah luar angkasa muda menggeledah stasiun luar angkasa yang terbengkalai, hanya untuk berhadapan langsung dengan xenomorph paling mematikan di galaksi.",
+    "genres": [
+      "Sci-Fi",
+      "Horror"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
+    "link": "#"
+  },
+  {
+    "id": 41,
+    "judul": "Godzilla Minus One",
+    "tipe": "Movie",
+    "rating": "7.9",
+    "durasi": "125 min",
+    "tahun": 2023,
+    "sutradara": "Takashi Yamazaki",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di Jepang pasca-Perang Dunia II yang hancur, ancaman baru berupa monster nuklir raksasa muncul dari lautan, memaksa para veteran perang yang tersisa bersatu melakukan perlawanan terakhir.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+    "link": "#"
+  },
+  {
+    "id": 42,
+    "judul": "Kingdom of the Planet of the Apes",
+    "tipe": "Movie",
+    "rating": "7.1",
+    "durasi": "145 min",
+    "tahun": 2024,
+    "sutradara": "Wes Ball",
+    "kualitas": "WEBDL",
+    "sinopsis": "Bertahun-tahun setelah era kepemimpinan Caesar, seekor kera muda memulai perjalanan panjang yang membuatnya mempertanyakan tirani kera lain dan menentukan takdir baru bersama manusia.",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+    "link": "#"
+  },
+  {
+    "id": 43,
+    "judul": "Deadpool & Wolverine",
+    "tipe": "Movie",
+    "rating": "7.7",
+    "durasi": "128 min",
+    "tahun": 2024,
+    "sutradara": "Shawn Levy",
+    "kualitas": "WEBDL",
+    "sinopsis": "Wade Wilson dipaksa kembali beraksi dan menyeret Wolverine dari semesta lain untuk bekerja sama demi menyelamatkan garis waktu dunianya dari ancaman kepunahan total.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "link": "#"
+  },
+  {
+    "id": 44,
+    "judul": "Spider-Man: No Way Home",
+    "tipe": "Movie",
+    "rating": "8.2",
+    "durasi": "148 min",
+    "tahun": 2021,
+    "sutradara": "Jon Watts",
+    "kualitas": "BLURAY",
+    "sinopsis": "Setelah identitasnya terbongkar, Peter Parker meminta bantuan Doctor Strange untuk merapal mantra rahasia, yang justru merobek batas multiverse dan mendatangkan musuh-musuh lama dari dimensi lain.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "link": "#"
+  },
+  {
+    "id": 45,
+    "judul": "The Batman",
+    "tipe": "Movie",
+    "rating": "7.8",
+    "durasi": "176 min",
+    "tahun": 2022,
+    "sutradara": "Matt Reeves",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di tahun keduanya memerangi kejahatan, Batman menyelidiki korupsi sistemik di Kota Gotham sambil memburu The Riddler, seorang pembunuh berantai berdarah dingin yang mengincar para elit kota.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "link": "#"
+  },
+  {
+    "id": 46,
+    "judul": "Hunter Killer",
+    "tipe": "Movie",
+    "rating": "6.9",
+    "durasi": "122 min",
+    "tahun": 2018,
+    "sutradara": "Donovan Marsh",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kapten Joe Glass memimpin kapal selam USS Arkansas memburu kapal selam AS yang hilang di Samudra Arktik, hanya untuk menemukan konspirasi kudeta Rusia yang mengancam Perang Dunia III.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/a0j18XNVhP4RcW3wXwsqT0kVoQm.jpg",
+    "link": "#"
+  },
+  {
+    "id": 47,
+    "judul": "Resident Evil: Vendetta",
+    "tipe": "Movie",
+    "rating": "6.8",
+    "durasi": "97 min",
+    "tahun": 2017,
+    "sutradara": "Takanori Tsujimoto",
+    "kualitas": "WEBDL",
+    "sinopsis": "Ketika musuh yang haus akan balas dendam melepaskan virus baru yang brutal, Chris Redfield meminta bantuan Agen Leon S. Kennedy dan Profesor Rebecca Chambers untuk menumpasnya.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/kdiMtgjWXEH9QZ85hgmWaSwshjf.jpg",
+    "link": "#"
+  },
+  {
+    "id": 48,
+    "judul": "The Equalizer",
+    "tipe": "Movie",
+    "rating": "7.2",
+    "durasi": "132 min",
+    "tahun": 2014,
+    "sutradara": "Antoine Fuqua",
+    "kualitas": "BLURAY",
+    "sinopsis": "Robert McCall, pria misterius yang hidup damai, menggunakan keterampilannya sebagai agen rahasia pensiunan untuk membantu orang-orang yang dianiaya. Ia terlibat dengan mafia Rusia saat mencoba membebaskan seorang gadis muda.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+    "link": "#"
+  },
+  {
+    "id": 49,
+    "judul": "The Equalizer 3",
+    "tipe": "Movie",
+    "rating": "6.7",
+    "durasi": "109 min",
+    "tahun": 2023,
+    "sutradara": "Antoine Fuqua",
+    "kualitas": "WEBDL",
+    "sinopsis": "Robert McCall menemukan rumah baru di Italia selatan tapi menemukan bahwa teman-temannya tinggal di bawah kendali mafia lokal. Ia memutuskan menjadi pelindung mereka melawan ancaman kejahatan tersebut.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+    "link": "#"
+  },
+  {
+    "id": 50,
+    "judul": "Mission: Impossible - Dead Reckoning Part One",
+    "tipe": "Movie",
+    "rating": "7.7",
+    "durasi": "163 min",
+    "tahun": 2023,
+    "sutradara": "Christopher McQuarrie",
+    "kualitas": "BLURAY",
+    "sinopsis": "Ethan Hunt dan timnya harus melacak senjata mematikan baru sebelum jatuh ke tangan yang salah. Ketika sebuah entitas AI jahat mengancam seluruh kemanusiaan, kesetiaan Ethan kepada IMF diuji habis-habisan.",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+    "link": "#"
+  },
+  {
+    "id": 51,
+    "judul": "The Hurt Locker",
+    "tipe": "Movie",
+    "rating": "7.5",
+    "durasi": "131 min",
+    "tahun": 2008,
+    "sutradara": "Kathryn Bigelow",
+    "kualitas": "BLURAY",
+    "sinopsis": "Sebuah tim penjinak bom Amerika bertugas di Baghdad yang berbahaya saat perang Irak. Ketika pemimpin baru yang berani namun ceroboh mengambil alih, ketegangan tim naik ke tingkat yang memuncak.",
+    "genres": [
+      "War",
+      "Drama",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+    "link": "#"
+  },
+  {
+    "id": 52,
+    "judul": "Arrival",
+    "tipe": "Movie",
+    "rating": "7.9",
+    "durasi": "116 min",
+    "tahun": 2016,
+    "sutradara": "Denis Villeneuve",
+    "kualitas": "BLURAY",
+    "sinopsis": "Seorang ahli bahasa direkrut oleh militer untuk berkomunikasi dengan alien misterius yang mendarat di Bumi. Saat ia mendalami bahasa alien, ia menemukan kemampuan baru yang mengubah pemahamannya tentang waktu.",
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Mystery"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 53,
+    "judul": "Edge of Tomorrow",
+    "tipe": "Movie",
+    "rating": "7.9",
+    "durasi": "113 min",
+    "tahun": 2014,
+    "sutradara": "Doug Liman",
+    "kualitas": "BLURAY",
+    "sinopsis": "Seorang perwira yang tidak pernah bertempur menemukan dirinya terjebak dalam siklus waktu yang terus berulang dalam pertempuran melawan alien. Semakin banyak ia mati, semakin ahli ia dalam pertempuran.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+    "link": "#"
+  },
+  {
+    "id": 54,
+    "judul": "The Revenant",
+    "tipe": "Movie",
+    "rating": "8.0",
+    "durasi": "156 min",
+    "tahun": 2015,
+    "sutradara": "Alejandro G. Inarritu",
+    "kualitas": "BLURAY",
+    "sinopsis": "Hugh Glass, seorang pemandu ekspedisi, diserang dan dibiarkan mati oleh rekannya setelah diserang beruang. Ia harus berjuang melintasi alam liar Amerika yang keras untuk membalas dendam dan bertahan hidup.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "link": "#"
+  },
+  {
+    "id": 55,
+    "judul": "No Country for Old Men",
+    "tipe": "Movie",
+    "rating": "8.2",
+    "durasi": "122 min",
+    "tahun": 2007,
+    "sutradara": "Joel & Ethan Coen",
+    "kualitas": "BLURAY",
+    "sinopsis": "Seorang pemburu menemukan uang dari transaksi narkoba yang salah, memicunya untuk melarikan diri dari seorang pembunuh bayaran tanpa ampun bernama Anton Chigurh yang berprinsip aneh.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "link": "#"
+  },
+  {
+    "id": 56,
+    "judul": "The Shawshank Redemption",
+    "tipe": "Movie",
+    "rating": "9.3",
+    "durasi": "142 min",
+    "tahun": 1994,
+    "sutradara": "Frank Darabont",
+    "kualitas": "BLURAY",
+    "sinopsis": "Andy Dufresne, seorang bankir yang dihukum atas pembunuhan istri dan kekasihnya meski tidak bersalah, menghabiskan hampir dua dekade di Penjara Shawshank dengan membina persahabatan dan harapan yang luar biasa.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "link": "#"
+  },
+  {
+    "id": 57,
+    "judul": "Gladiator",
+    "tipe": "Movie",
+    "rating": "8.5",
+    "durasi": "155 min",
+    "tahun": 2000,
+    "sutradara": "Ridley Scott",
+    "kualitas": "BLURAY",
+    "sinopsis": "Maximus Decimus Meridius, jenderal Romawi yang disayangi kaisar, dikhianati dan keluarganya dibunuh. Ia bertahan hidup sebagai seorang gladiator dan berjuang untuk kembali ke Roma dan membalas dendam.",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/ty8TGRuvJLPUmAFKPYk8izszHcu.jpg",
+    "link": "#"
+  },
+  {
+    "id": 58,
+    "judul": "Schindler's List",
+    "tipe": "Movie",
+    "rating": "9.0",
+    "durasi": "195 min",
+    "tahun": 1993,
+    "sutradara": "Steven Spielberg",
+    "kualitas": "BLURAY",
+    "sinopsis": "Oskar Schindler, seorang pengusaha Jerman yang bergabung dengan Nazi, perlahan berubah menjadi penyelamat saat ia menyaksikan kekejaman yang dialami orang-orang Yahudi selama Holocaust.",
+    "genres": [
+      "Drama",
+      "History",
+      "Biography"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "link": "#"
+  },
+  {
+    "id": 59,
+    "judul": "The Godfather",
+    "tipe": "Movie",
+    "rating": "9.2",
+    "durasi": "175 min",
+    "tahun": 1972,
+    "sutradara": "Francis Ford Coppola",
+    "kualitas": "BLURAY",
+    "sinopsis": "Kepala keluarga mafia yang menua menyerahkan kekuasaannya kepada putra bungsunya yang enggan saat anggota keluarga lainnya mencoba mengambil alih bisnis keluarga setelah pembunuhan yang menghancurkan.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/3bhkrj58Vtu7enYsLest0cnefMb.jpg",
+    "link": "#"
+  },
+  {
+    "id": 60,
+    "judul": "Apocalypse Now",
+    "tipe": "Movie",
+    "rating": "8.4",
+    "durasi": "153 min",
+    "tahun": 1979,
+    "sutradara": "Francis Ford Coppola",
+    "kualitas": "BLURAY",
+    "sinopsis": "Selama Perang Vietnam, Kapten Willard dikirim dalam misi rahasia ke Kamboja untuk membunuh Kolonel Kurtz, seorang perwira jenius yang telah kehilangan akal sehatnya dan membangun kerajaan sendiri.",
+    "genres": [
+      "War",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+    "link": "#"
+  },
+  {
+    "id": 61,
+    "judul": "Black Panther",
+    "tipe": "Movie",
+    "rating": "7.3",
+    "durasi": "134 min",
+    "tahun": 2018,
+    "sutradara": "Ryan Coogler",
+    "kualitas": "BLURAY",
+    "sinopsis": "Setelah kematian ayahnya, Pangeran T'Challa kembali ke Wakanda untuk mengklaim takhtanya sebagai raja. Tantangan datang dari musuh yang mengancam tidak hanya kerajaan Wakanda tetapi seluruh dunia.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "link": "#"
+  },
+  {
+    "id": 62,
+    "judul": "Thor: Ragnarok",
+    "tipe": "Movie",
+    "rating": "7.9",
+    "durasi": "130 min",
+    "tahun": 2017,
+    "sutradara": "Taika Waititi",
+    "kualitas": "BLURAY",
+    "sinopsis": "Thor dipenjara di sisi lain alam semesta tanpa palu ajaibnya. Untuk menyelamatkan Asgard, ia harus bertarung dalam kontes gladiator melawan Hulk dan melarikan diri dari Dewi Kematian.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/rzRwTcFvttcN1LpSSdVKVXeKEu2.jpg",
+    "link": "#"
+  },
+  {
+    "id": 63,
+    "judul": "Joker",
+    "tipe": "Movie",
+    "rating": "8.4",
+    "durasi": "122 min",
+    "tahun": 2019,
+    "sutradara": "Todd Phillips",
+    "kualitas": "BLURAY",
+    "sinopsis": "Arthur Fleck, seorang komedian yang gagal dan sakit, hidup dalam masyarakat yang tidak peduli. Pengkhianatan berulang mendorongnya ke jalan kekerasan dan kekacauan, transformasi menjadi simbol perlawanan yang menakutkan.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "link": "#"
+  },
+  {
+    "id": 64,
+    "judul": "Parasite",
+    "tipe": "Movie",
+    "rating": "8.5",
+    "durasi": "132 min",
+    "tahun": 2019,
+    "sutradara": "Bong Joon-ho",
+    "kualitas": "BLURAY",
+    "sinopsis": "Keluarga Ki-taek yang miskin secara perlahan menyusup ke kehidupan keluarga Park yang kaya. Rencana mereka yang tampak sempurna berubah menjadi peristiwa yang tidak dapat terduga dan mencekam.",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "link": "#"
+  },
+  {
+    "id": 65,
+    "judul": "Predator",
+    "tipe": "Movie",
+    "rating": "7.8",
+    "durasi": "107 min",
+    "tahun": 1987,
+    "sutradara": "John McTiernan",
+    "kualitas": "BLURAY",
+    "sinopsis": "Sebuah tim komando elit di hutan Amerika Latin menemukan bahwa mereka juga diburu oleh makhluk luar angkasa yang canggih dengan teknologi kamuflase dan senjata alien yang jauh melampaui kemampuan manusia.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+    "link": "#"
+  },
+  {
+    "id": 66,
+    "judul": "A Quiet Place",
+    "tipe": "Movie",
+    "rating": "7.5",
+    "durasi": "90 min",
+    "tahun": 2018,
+    "sutradara": "John Krasinski",
+    "kualitas": "BLURAY",
+    "sinopsis": "Sebuah keluarga berjuang untuk bertahan hidup di dunia yang dihuni oleh makhluk buta yang berburu dengan suara. Mereka harus hidup dalam diam hampir total untuk menghindari makhluk-makhluk mematikan itu.",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/oacCMlYTeSCB39Z0mj7dJBSCcBo.jpg",
+    "link": "#"
+  },
+  {
+    "id": 67,
+    "judul": "Gravity",
+    "tipe": "Movie",
+    "rating": "7.7",
+    "durasi": "91 min",
+    "tahun": 2013,
+    "sutradara": "Alfonso Cuaron",
+    "kualitas": "BLURAY",
+    "sinopsis": "Dua astronot terjebak di luar angkasa setelah puing-puing merusak stasiun luar angkasa mereka. Mereka harus bekerja sama untuk bertahan hidup dalam perjalanan kembali ke Bumi.",
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+    "link": "#"
+  },
+  {
+    "id": 68,
+    "judul": "The Prestige",
+    "tipe": "Movie",
+    "rating": "8.5",
+    "durasi": "130 min",
+    "tahun": 2006,
+    "sutradara": "Christopher Nolan",
+    "kualitas": "BLURAY",
+    "sinopsis": "Dua pesulap di London abad ke-19 terlibat dalam persaingan obsesif yang mematikan untuk menciptakan ilusi yang sempurna. Persaingan mereka mengorbankan segalanya dan membawa keduanya ke jurang kehancuran.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+    "link": "#"
+  },
+  {
+    "id": 69,
+    "judul": "Se7en",
+    "tipe": "Movie",
+    "rating": "8.6",
+    "durasi": "127 min",
+    "tahun": 1995,
+    "sutradara": "David Fincher",
+    "kualitas": "BLURAY",
+    "sinopsis": "Dua detektif menyelidiki serangkaian pembunuhan berantai keji di mana setiap korban mati dengan cara yang mencerminkan salah satu dari tujuh dosa mematikan. Mereka berlomba dengan waktu untuk menangkap pelaku.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "link": "#"
+  },
+  {
+    "id": 70,
+    "judul": "Forrest Gump",
+    "tipe": "Movie",
+    "rating": "8.8",
+    "durasi": "142 min",
+    "tahun": 1994,
+    "sutradara": "Robert Zemeckis",
+    "kualitas": "BLURAY",
+    "sinopsis": "Kisah Forrest Gump, seorang pria sederhana dari Alabama yang secara tidak sengaja menjadi bagian dari momen-momen paling menentukan dalam sejarah Amerika dari tahun 1950-an hingga 1980-an.",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "link": "#"
+  },
+  {
+    "id": 71,
+    "judul": "Gladiator II",
+    "tipe": "Movie",
+    "rating": "7.4",
+    "durasi": "148 min",
+    "tahun": 2024,
+    "sutradara": "Ridley Scott",
+    "kualitas": "BLURAY",
+    "sinopsis": "Lucius, cucu kaisar Marcus Aurelius, menyaksikan kehancuran kampung halamannya oleh Jenderal Acacius. Ia ditangkap dan dijual sebagai gladiator, memulai perjalanan balas dendam di bawah Roma yang bergolak.",
+    "genres": [
+      "Action",
+      "History",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/2cxhvwyE0RtTswWr9pCm3aGLXg.jpg",
+    "link": "#"
+  },
+  {
+    "id": 72,
+    "judul": "Furiosa: A Mad Max Saga",
+    "tipe": "Movie",
+    "rating": "7.8",
+    "durasi": "148 min",
+    "tahun": 2024,
+    "sutradara": "George Miller",
+    "kualitas": "WEBDL",
+    "sinopsis": "Origin story dari Imperator Furiosa yang dicuri dari kaumnya sebagai anak dan tumbuh di bawah kendali tyrant Dementus. Selama bertahun-tahun di Citadel, ia merencanakan jalan pulang sambil menunggu momen yang tepat.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+    "link": "#"
+  },
+  {
+    "id": 73,
+    "judul": "Civil War (2024)",
+    "tipe": "Movie",
+    "rating": "7.5",
+    "durasi": "109 min",
+    "tahun": 2024,
+    "sutradara": "Alex Garland",
+    "kualitas": "WEBDL",
+    "sinopsis": "Di Amerika Serikat yang sedang dilanda perang saudara, sekelompok jurnalis perang melakukan perjalanan berbahaya dari New York menuju Washington D.C. untuk mewawancarai presiden sebelum ibu kota direbut.",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/fc9DUYP4XjMkAu1hMMiRBj6bQcA.jpg",
+    "link": "#"
+  },
+  {
+    "id": 74,
+    "judul": "Nosferatu (2024)",
+    "tipe": "Movie",
+    "rating": "7.4",
+    "durasi": "132 min",
+    "tahun": 2024,
+    "sutradara": "Robert Eggers",
+    "kualitas": "WEBDL",
+    "sinopsis": "Remake gothic dari kisah vampir klasik tentang seorang wanita muda Eropa yang dirasuki oleh obsesi seksual seorang vampir tua dari Transylvania yang mulai meracuni seluruh kotanya dengan wabah kegelapan.",
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5oGSDBb8dEVWvzKkzGDPOxkfUTp.jpg",
+    "link": "#"
+  },
+  {
+    "id": 75,
+    "judul": "Joker: Folie a Deux",
+    "tipe": "Movie",
+    "rating": "5.5",
+    "durasi": "138 min",
+    "tahun": 2024,
+    "sutradara": "Todd Phillips",
+    "kualitas": "WEBDL",
+    "sinopsis": "Arthur Fleck yang kini dikenal sebagai Joker, dipenjara di Arkham State Hospital sambil menunggu persidangan. Di sana ia bertemu Harley Quinn dan keduanya menjalin hubungan yang mengubah hidup mereka.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Musical"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "link": "#"
+  },
+  {
+    "id": 76,
+    "judul": "Inside Out 2",
+    "tipe": "Movie",
+    "rating": "7.8",
+    "durasi": "100 min",
+    "tahun": 2024,
+    "sutradara": "Kelsey Mann",
+    "kualitas": "WEBDL",
+    "sinopsis": "Riley beranjak remaja dan emosi-emosi lamanya harus berbagi ruang dengan emosi-emosi baru yang lebih kompleks, terutama Anxiety yang mengambil alih kendali atas pikiran dan tindakan Riley.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "link": "#"
+  },
+  {
+    "id": 77,
+    "judul": "The Beekeeper",
+    "tipe": "Movie",
+    "rating": "7.1",
+    "durasi": "105 min",
+    "tahun": 2024,
+    "sutradara": "David Ayer",
+    "kualitas": "WEBDL",
+    "sinopsis": "Adam Clay, pensiunan agen dari organisasi rahasia bernama Beekeeper, memulai aksi pembalasan dendam yang menghancurkan setelah seorang wanita baik hati yang memberinya tempat tinggal ditipu oleh jaringan penipuan siber.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/A7EByudX0eqqZmFvNaB9RlnSd9R.jpg",
+    "link": "#"
+  },
+  {
+    "id": 78,
+    "judul": "Alien: Covenant",
+    "tipe": "Movie",
+    "rating": "6.4",
+    "durasi": "122 min",
+    "tahun": 2017,
+    "sutradara": "Ridley Scott",
+    "kualitas": "WEBDL",
+    "sinopsis": "Awak kapal kolonisasi Covenant menemukan planet yang tampaknya sempurna sebagai rumah baru manusia, namun segera menyadari bahwa planet itu adalah dunia berbahaya tempat tinggal David, android misterius dari misi Prometheus.",
+    "genres": [
+      "Sci-Fi",
+      "Horror"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
+    "link": "#"
+  },
+  {
+    "id": 79,
+    "judul": "A Complete Unknown",
+    "tipe": "Movie",
+    "rating": "7.6",
+    "durasi": "141 min",
+    "tahun": 2024,
+    "sutradara": "James Mangold",
+    "kualitas": "WEBDL",
+    "sinopsis": "Biografi dari Bob Dylan muda yang tiba di New York City pada tahun 1961 dengan gitarnya, menjadi sensasi folk music dengan cepat, dan kemudian mengejutkan dunia dengan beralih ke musik rock elektrik.",
+    "genres": [
+      "Drama",
+      "Music",
+      "Biography"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "link": "#"
+  },
+  {
+    "id": 80,
+    "judul": "Conclave",
+    "tipe": "Movie",
+    "rating": "7.4",
+    "durasi": "120 min",
+    "tahun": 2024,
+    "sutradara": "Edward Berger",
+    "kualitas": "WEBDL",
+    "sinopsis": "Setelah kematian mendadak Paus, seorang kardinal yang meragukan imannya memimpin proses seleksi Paus baru yang penuh intrik di antara para kardinal terpilih di Vatican.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "link": "#"
+  },
+  {
+    "id": 81,
+    "judul": "Wicked",
+    "tipe": "Movie",
+    "rating": "7.8",
+    "durasi": "160 min",
+    "tahun": 2024,
+    "sutradara": "Jon M. Chu",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kisah asal-usul persahabatan yang tidak mungkin antara Elphaba, gadis berkulit hijau yang dikucilkan, dan Glinda, gadis populer yang haus pujian, sebelum mereka menjadi penyihir legendaris di Land of Oz.",
+    "genres": [
+      "Musical",
+      "Fantasy",
+      "Drama",
+      "Romance"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "link": "#"
+  },
+  {
+    "id": 82,
+    "judul": "Moana 2",
+    "tipe": "Movie",
+    "rating": "7.0",
+    "durasi": "100 min",
+    "tahun": 2024,
+    "sutradara": "Dave Derrick Jr.",
+    "kualitas": "WEBDL",
+    "sinopsis": "Moana menerima panggilan mengejutkan dari nenek moyangnya yang membawanya ke lautan jauh yang belum dipetakan. Bersama kru yang baru, ia memulai petualangan ke perairan berbahaya untuk menyelamatkan rakyatnya.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Music"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+    "link": "#"
+  },
+  {
+    "id": 83,
+    "judul": "The Substance",
+    "tipe": "Movie",
+    "rating": "7.4",
+    "durasi": "141 min",
+    "tahun": 2024,
+    "sutradara": "Coralie Fargeat",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang aktris aging Hollywood yang karirnya mulai meredup menemukan sebuah zat misterius yang menjanjikan versi lebih baik dari dirinya. Namun hasil dari eksperimen biologis ini jauh lebih mengerikan dari yang ia bayangkan.",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Drama",
+      "Comedy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5oGSDBb8dEVWvzKkzGDPOxkfUTp.jpg",
+    "link": "#"
+  },
+  {
+    "id": 84,
+    "judul": "Longlegs",
+    "tipe": "Movie",
+    "rating": "6.0",
+    "durasi": "101 min",
+    "tahun": 2024,
+    "sutradara": "Osgood Perkins",
+    "kualitas": "WEBDL",
+    "sinopsis": "Agen FBI baru yang memiliki kemampuan supernatural bergabung dalam perburuan pembunuh berantai Longlegs yang misterius. Kasus ini ternyata jauh lebih dekat dengan hidupnya dari yang ia bayangkan.",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5oGSDBb8dEVWvzKkzGDPOxkfUTp.jpg",
+    "link": "#"
+  },
+  {
+    "id": 85,
+    "judul": "IF",
+    "tipe": "Movie",
+    "rating": "6.7",
+    "durasi": "104 min",
+    "tahun": 2024,
+    "sutradara": "John Krasinski",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang gadis muda yang membayangkan teman khayalan dari masa kecil menemukan bahwa ia dapat melihat teman-teman khayalan orang lain yang telah ditinggalkan. Ia memutuskan untuk membantu mereka menemukan kembali anak-anak yang mereka cintai.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Family",
+      "Animation"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "link": "#"
+  },
+  {
+    "id": 86,
+    "judul": "Trap",
+    "tipe": "Movie",
+    "rating": "6.8",
+    "durasi": "105 min",
+    "tahun": 2024,
+    "sutradara": "M. Night Shyamalan",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang ayah membawa putrinya ke konser pop besar dan menyadari bahwa seluruh acara tersebut sebenarnya adalah jebakan polisi yang dirancang untuk menangkap seorang pembunuh berantai. Ayah itu adalah pembunuhnya.",
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Crime"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5oGSDBb8dEVWvzKkzGDPOxkfUTp.jpg",
+    "link": "#"
+  },
+  {
+    "id": 87,
+    "judul": "Heretic",
+    "tipe": "Movie",
+    "rating": "7.2",
+    "durasi": "110 min",
+    "tahun": 2024,
+    "sutradara": "Scott Beck & Bryan Woods",
+    "kualitas": "WEBDL",
+    "sinopsis": "Dua misionaris Mormon muda mengunjungi seorang pria tua yang tampak ramah namun ternyata menyembunyikan rencana jahat. Perdebatan filosofis tentang agama dan keyakinan berubah menjadi situasi yang mengancam nyawa mereka.",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5oGSDBb8dEVWvzKkzGDPOxkfUTp.jpg",
+    "link": "#"
+  },
+  {
+    "id": 88,
+    "judul": "Speak No Evil (2024)",
+    "tipe": "Movie",
+    "rating": "7.0",
+    "durasi": "110 min",
+    "tahun": 2024,
+    "sutradara": "James Watkins",
+    "kualitas": "WEBDL",
+    "sinopsis": "Pasangan Amerika yang berlibur di Eropa bertemu pasangan asing yang karismatik dan menerima undangan untuk mengunjungi rumah mereka di pedesaan. Apa yang dimulai sebagai persahabatan ramah segera berubah menjadi mimpi buruk.",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5oGSDBb8dEVWvzKkzGDPOxkfUTp.jpg",
+    "link": "#"
+  },
+  {
+    "id": 89,
+    "judul": "Hit Man",
+    "tipe": "Movie",
+    "rating": "7.6",
+    "durasi": "115 min",
+    "tahun": 2024,
+    "sutradara": "Richard Linklater",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang profesor psikologi yang bekerja paruh waktu sebagai konsultan polisi dengan menyamar sebagai pembunuh bayaran untuk menangkap calon klien jatuh cinta pada salah satu targetnya dan memutuskan membantunya.",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/A7EByudX0eqqZmFvNaB9RlnSd9R.jpg",
+    "link": "#"
+  },
+  {
+    "id": 90,
+    "judul": "Twisters",
+    "tipe": "Movie",
+    "rating": "7.2",
+    "durasi": "122 min",
+    "tahun": 2024,
+    "sutradara": "Lee Isaac Chung",
+    "kualitas": "WEBDL",
+    "sinopsis": "Seorang mantan pemburu badai yang trauma kembali ke Oklahoma untuk melacak tornado ketika ia bertemu dengan seorang pemburu badai karismatik yang mencari ketenaran. Bersama mereka menghadapi musim tornado paling brutal.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+    "link": "#"
+  },
+  {
+    "id": 91,
+    "judul": "Bad Boys: Ride or Die",
+    "tipe": "Movie",
+    "rating": "6.8",
+    "durasi": "115 min",
+    "tahun": 2024,
+    "sutradara": "Adil El Arbi & Bilall Fallah",
+    "kualitas": "WEBDL",
+    "sinopsis": "Mike Lowrey dan Marcus Burnett kali ini harus membuktikan diri mereka bukan penghianat saat mereka menjadi buronan polisi. Sambil dikejar oleh sistem hukum, mereka harus mengungkap konspirasi yang mencoreng nama rekan mereka.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/nNmJrOS7YSLgI5GJm9W3Zs0PFzo.jpg",
+    "link": "#"
+  },
+  {
+    "id": 92,
+    "judul": "Kingdom of the Planet of the Apes",
+    "tipe": "Movie",
+    "rating": "7.1",
+    "durasi": "145 min",
+    "tahun": 2024,
+    "sutradara": "Wes Ball",
+    "kualitas": "WEBDL",
+    "sinopsis": "Bertahun-tahun setelah era kepemimpinan Caesar, seekor kera muda memulai perjalanan panjang yang membuatnya mempertanyakan masa lalu tirani dan menentukan takdir baru bagi semua spesies di bumi.",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+    "link": "#"
+  },
+  {
+    "id": 93,
+    "judul": "The Gorge",
+    "tipe": "Movie",
+    "rating": "7.3",
+    "durasi": "115 min",
+    "tahun": 2025,
+    "sutradara": "Scott Derrickson",
+    "kualitas": "WEBDL",
+    "sinopsis": "Dua penembak jitu dari negara berbeda ditugaskan untuk menjaga jurang misterius bernama the gorge dari kedua sisi yang berlawanan. Saat mereka berkomunikasi dari kejauhan, hubungan cinta tumbuh sebelum kebenaran mengerikan tentang jurang tersebut terungkap.",
+    "genres": [
+      "Action",
+      "Romance",
+      "Sci-Fi",
+      "Mystery"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/A7EByudX0eqqZmFvNaB9RlnSd9R.jpg",
+    "link": "#"
+  },
+  {
+    "id": 94,
+    "judul": "Captain America: Brave New World",
+    "tipe": "Movie",
+    "rating": "6.1",
+    "durasi": "118 min",
+    "tahun": 2025,
+    "sutradara": "Julius Onah",
+    "kualitas": "WEBDL",
+    "sinopsis": "Sam Wilson dalam perannya sebagai Captain America yang baru harus mencegah insiden internasional saat Presiden Amerika Serikat terseret dalam konspirasi yang melibatkan Red Hulk dan agen-agen berbahaya dari masa lalu.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "link": "#"
+  },
+  {
+    "id": 95,
+    "judul": "Fate/stay night: Heaven's Feel",
+    "tipe": "Movie",
+    "rating": "8.4",
+    "durasi": "120 min/film",
+    "episode": 3,
+    "tahun": 2017,
+    "studio": "ufotable",
+    "kualitas": "BLURAY",
+    "sinopsis": "Rute terkelam dan paling mendalam dari Perang Cawan Suci kelima, berfokus pada misteri kelam yang menyelimuti Sakura Matou serta munculnya bayangan misterius yang menelan seluruh kota.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/6nEtmBg07DA5BWjcrmD49rxHsVQ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 96,
+    "judul": "That Time I Got Reincarnated as a Slime: Scarlet Bond",
+    "tipe": "Movie",
+    "rating": "7.6",
+    "durasi": "110 min",
+    "episode": 1,
+    "tahun": 2022,
+    "studio": "8bit",
+    "kualitas": "WEBDL",
+    "sinopsis": "Konspirasi yang telah berlangsung lama berputar-putar seputar kekuatan misterius yang dimiliki oleh Ratu di Raja. Ketika Rimuru Tempest bertemu dengan Hiiro, sebuah petualangan luar biasa pun dimulai.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xITip9n9uMAUA0TU6niMXU2tbh0.jpg",
+    "link": "#"
+  },
+  {
+    "id": 97,
+    "judul": "Naruto the Movie: Ninja Clash in the Land of Snow",
+    "tipe": "Movie",
+    "rating": "7.0",
+    "durasi": "82 min",
+    "episode": 1,
+    "tahun": 2004,
+    "studio": "Pierrot",
+    "kualitas": "WEBDL",
+    "sinopsis": "Naruto dan Tim 7 ditugaskan untuk mengawal seorang aktris terkenal ke Negeri Salju, tanpa menyadari bahwa aktris tersebut adalah seorang putri yang melarikan diri dari kudeta berdarah.",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/eUNRUeSNzm8LktH4HRaYiAReB6R.jpg",
+    "link": "#"
+  },
+  {
+    "id": 98,
+    "judul": "Naruto Shippuden the Movie: Road to Ninja",
+    "tipe": "Movie",
+    "rating": "7.5",
+    "durasi": "109 min",
+    "episode": 1,
+    "tahun": 2012,
+    "studio": "Pierrot",
+    "kualitas": "BLURAY",
+    "sinopsis": "Naruto dan Sakura terjebak di dunia ilusi alternatif buatan Madara, di mana kepribadian teman-teman mereka berubah total dan orang tua Naruto masih hidup sebagai pahlawan desa.",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/xLal6fXNtiJN6Zw6qk21xAtdOeN.jpg",
+    "link": "#"
+  },
+  {
+    "id": 99,
+    "judul": "The Last: Naruto the Movie",
+    "tipe": "Movie",
+    "rating": "7.8",
+    "durasi": "112 min",
+    "episode": 1,
+    "tahun": 2014,
+    "studio": "Pierrot",
+    "kualitas": "BLURAY",
+    "sinopsis": "Dua tahun setelah Perang Dunia Shinobi Keempat, Naruto harus menghentikan keturunan klan Otsutsuki yang berniat menjatuhkan bulan ke bumi, sambil menyadari tali merah takdirnya bersama Hinata.",
+    "genres": [
+      "Action",
+      "Romance",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg",
+    "link": "#"
+  },
+  {
+    "id": 100,
+    "judul": "Boruto: Naruto the Movie",
+    "tipe": "Movie",
+    "rating": "7.4",
+    "durasi": "95 min",
+    "episode": 1,
+    "tahun": 2015,
+    "studio": "Pierrot",
+    "kualitas": "BLURAY",
+    "sinopsis": "Fokus pada putra Naruto, Boruto Uzumaki, yang penuh pemberontakan dan berusaha melampaui pencapaian ayahnya yang kini sibuk memimpin desa sebagai Hokage Ketujuh.",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+    "link": "#"
+  },
+  {
+    "id": 101,
+    "judul": "Jujutsu Kaisen 0",
+    "tipe": "Movie",
+    "rating": "8.0",
+    "durasi": "105 min",
+    "episode": 1,
+    "tahun": 2021,
+    "studio": "MAPPA",
+    "kualitas": "BLURAY",
+    "sinopsis": "Yuta Okkotsu adalah seorang siswa SMA yang dihantui arwah kuat teman masa kecilnya, Rika. Setelah bergabung dengan Sekolah Jujutsu Tokyo, ia belajar mengendalikan kutukan sambil menghadapi ancaman ahli sihir berbahaya Geto Suguru.",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/23ztxnVhNtdj1ioLg3vqhHRFl3r.jpg",
+    "link": "#"
+  },
+  {
+    "id": 102,
+    "judul": "Demon Slayer: Mugen Train",
+    "tipe": "Movie",
+    "rating": "8.2",
+    "durasi": "117 min",
+    "episode": 1,
+    "tahun": 2020,
+    "studio": "ufotable",
+    "kualitas": "BLURAY",
+    "sinopsis": "Tanjiro, Zenitsu, dan Inosuke bergabung dengan Hashira Api Rengoku dalam misi di Mugen Train yang misterius. Mereka harus mencegah iblis dari membunuh 200 penumpang kereta.",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/h8Rb9gBr48ODIwYZ2kvDTU3XxAs.jpg",
+    "link": "#"
+  },
+  {
+    "id": 103,
+    "judul": "One Piece Film: Red",
+    "tipe": "Movie",
+    "rating": "8.0",
+    "durasi": "115 min",
+    "episode": 1,
+    "tahun": 2022,
+    "studio": "Toei Animation",
+    "kualitas": "BLURAY",
+    "sinopsis": "Festival musik terbesar dunia diadakan oleh penyanyi paling populer, Uta, puteri Shanks si Rambut Merah. Konser ini menyimpan rencana tersembunyi yang mengancam kebebasan seluruh dunia.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Music"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/FRd2UqkmpvQvBY7Yiaxm6pDmBjV.jpg",
+    "link": "#"
+  },
+  {
+    "id": 104,
+    "judul": "One Piece Film: Gold",
+    "tipe": "Movie",
+    "rating": "7.4",
+    "durasi": "120 min",
+    "episode": 1,
+    "tahun": 2016,
+    "studio": "Toei Animation",
+    "kualitas": "WEBDL",
+    "sinopsis": "Topi Jerami tiba di Gran Tesoro, kapal kasino terbesar di dunia yang dikuasai Gild Tesoro. Ketika salah satu kru terjebak, Luffy harus menemukan cara menyelamatkan teman-temannya.",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/fzYKcCJAP8EGoSHifvmSr6hJhYM.jpg",
+    "link": "#"
+  },
+  {
+    "id": 105,
+    "judul": "One Piece: Stampede",
+    "tipe": "Movie",
+    "rating": "7.6",
+    "durasi": "101 min",
+    "episode": 1,
+    "tahun": 2019,
+    "studio": "Toei Animation",
+    "kualitas": "WEBDL",
+    "sinopsis": "Festival bajak laut terbesar di dunia diselenggarakan, menarik semua bajak laut terkuat termasuk Topi Jerami. Di balik perayaan ini tersimpan bahaya besar ketika musuh bertenaga Buah Iblis menantang semua.",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+    "link": "#"
+  },
+  {
+    "id": 106,
+    "judul": "Sword Art Online: Ordinal Scale",
+    "tipe": "Movie",
+    "rating": "7.6",
+    "durasi": "119 min",
+    "episode": 1,
+    "tahun": 2017,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Dunia menemukan teknologi augmented reality baru bernama Augma. Ketika pemain mulai kehilangan kenangan mereka dan wajah masa lalu SAO muncul kembali, Kirito harus bertarung di dunia nyata.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 107,
+    "judul": "Sword Art Online: Progressive - Aria of a Starless Night",
+    "tipe": "Movie",
+    "rating": "7.5",
+    "durasi": "97 min",
+    "episode": 1,
+    "tahun": 2021,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Retelling dari petualangan Kirito dan Asuna di lantai pertama Aincrad dari sudut pandang baru Asuna, menampilkan detail yang lebih dalam tentang bagaimana ikatan mereka terbentuk.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Fantasy",
+      "Romance"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/l9gIqzCFVdME3oCJHMRCa8oRwV1.jpg",
+    "link": "#"
+  },
+  {
+    "id": 108,
+    "judul": "Sword Art Online: Progressive - Scherzo of Deep Night",
+    "tipe": "Movie",
+    "rating": "7.4",
+    "durasi": "99 min",
+    "episode": 1,
+    "tahun": 2022,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kirito dan Asuna melanjutkan petualangan naik ke lantai yang lebih tinggi di Aincrad sambil berhadapan dengan guild-guild yang saling bersaing dan pengkhianatan di antara sesama pemain.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 109,
+    "judul": "Violet Evergarden: The Movie",
+    "tipe": "Movie",
+    "rating": "8.9",
+    "durasi": "140 min",
+    "episode": 1,
+    "tahun": 2020,
+    "studio": "Kyoto Animation",
+    "kualitas": "BLURAY",
+    "sinopsis": "Violet Evergarden mengalami transformasi luar biasa setelah bertahun-tahun menulis surat bagi orang lain. Dalam konklusi yang mengharukan, ia mencari cara untuk bertemu kembali dengan orang yang paling berarti baginya.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/61EwFPqc0r1uJo6la49J55F8bQ8.jpg",
+    "link": "#"
+  },
+  {
+    "id": 110,
+    "judul": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "tipe": "Movie",
+    "rating": "8.0",
+    "durasi": "155 min",
+    "episode": 1,
+    "tahun": 2021,
+    "studio": "Khara",
+    "kualitas": "WEBDL",
+    "sinopsis": "Shinji Ikari harus menghadapi konsekuensi dari tindakan masa lalunya dan mencari keberanian untuk bangkit kembali. Konklusi dari seri Rebuild of Evangelion yang membawa penutupan emosional bagi seluruh kisah.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Mecha",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/A39ktq3bBhH1L2jE5TEyFaFHJXZ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 111,
+    "judul": "Ghost in the Shell",
+    "tipe": "Movie",
+    "rating": "8.0",
+    "durasi": "83 min",
+    "episode": 1,
+    "tahun": 1995,
+    "studio": "Production I.G",
+    "kualitas": "BLURAY",
+    "sinopsis": "Di masa depan di mana manusia dan mesin telah menyatu, Major Motoko Kusanagi memburu hacker misterius bernama Puppet Master yang mampu meretas pikiran manusia.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/oN7JVLsxIjhQZ55i7o1Dz0EMTAZ.jpg",
+    "link": "#"
+  },
+  {
+    "id": 112,
+    "judul": "Akira",
+    "tipe": "Movie",
+    "rating": "8.0",
+    "durasi": "124 min",
+    "episode": 1,
+    "tahun": 1988,
+    "studio": "TMS Entertainment",
+    "kualitas": "BLURAY",
+    "sinopsis": "Di Neo-Tokyo tahun 2019, anggota geng motor Shōtarō Kaneda berjuang menyelamatkan sahabatnya Tetsuo yang memperoleh kekuatan psikis berbahaya dan semakin tidak terkendali, mengancam keselamatan seluruh kota.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/r1YlEWgHfTQCpJHuBSKNiMOeaEi.jpg",
+    "link": "#"
+  },
+  {
+    "id": 113,
+    "judul": "Your Name",
+    "tipe": "Movie",
+    "rating": "8.4",
+    "durasi": "106 min",
+    "episode": 1,
+    "tahun": 2016,
+    "studio": "CoMix Wave Films",
+    "kualitas": "BLURAY",
+    "sinopsis": "Mitsuha, gadis remaja dari kota kecil di pegunungan, dan Taki, pemuda dari Tokyo, secara misterius mulai bertukar tubuh secara acak. Saat pertukaran itu berhenti tiba-tiba, Taki berusaha menemukan Mitsuha.",
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/q719jXXEzOoYaps6babgKnONONX.jpg",
+    "link": "#"
+  },
+  {
+    "id": 114,
+    "judul": "Spirited Away",
+    "tipe": "Movie",
+    "rating": "8.6",
+    "durasi": "125 min",
+    "episode": 1,
+    "tahun": 2001,
+    "studio": "Studio Ghibli",
+    "kualitas": "BLURAY",
+    "sinopsis": "Chihiro, gadis sepuluh tahun, masuk ke dunia roh saat orang tuanya berubah menjadi babi. Untuk membebaskan mereka, ia harus bekerja di pemandian mewah milik penyihir kuat sambil menemukan keberanian dalam dirinya.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Family"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/5h8DwrVPMoMFqbZzPKBGDsGNUCj.jpg",
+    "link": "#"
+  },
+  {
+    "id": 115,
+    "judul": "Princess Mononoke",
+    "tipe": "Movie",
+    "rating": "8.4",
+    "durasi": "134 min",
+    "episode": 1,
+    "tahun": 1997,
+    "studio": "Studio Ghibli",
+    "kualitas": "BLURAY",
+    "sinopsis": "Ashitaka, seorang pangeran muda yang terkutuk, terjebak dalam konflik epik antara dewa-dewa hutan kuno dengan para manusia yang mengeksploitasi alam demi kemajuan industri besi.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/1jZKGkUKLv3E7joJpnA2aFrZxuI.jpg",
+    "link": "#"
+  },
+  {
+    "id": 116,
+    "judul": "Nausicaä of the Valley of the Wind",
+    "tipe": "Movie",
+    "rating": "8.1",
+    "durasi": "117 min",
+    "episode": 1,
+    "tahun": 1984,
+    "studio": "Studio Ghibli",
+    "kualitas": "BLURAY",
+    "sinopsis": "Di bumi yang hancur akibat perang industri, putri Valley of the Wind berjuang menjadi jembatan antara manusia dan hutan beracun yang semakin meluas, menghadapi invasi kekaisaran militer.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7KKxkAJCOWiXToxXTjfmLBuRJsR.jpg",
+    "link": "#"
+  },
+  {
+    "id": 117,
+    "judul": "Weathering With You",
+    "tipe": "Movie",
+    "rating": "7.5",
+    "durasi": "112 min",
+    "episode": 1,
+    "tahun": 2019,
+    "studio": "CoMix Wave Films",
+    "kualitas": "WEBDL",
+    "sinopsis": "Hodaka, remaja dari pulau kecil yang kabur ke Tokyo, bertemu Hina, gadis yang memiliki kemampuan menghentikan hujan. Mereka menjalankan bisnis unik bersama namun keajaiban Hina memiliki harga yang sangat mahal.",
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/lO4vUYGBzPLbLaxbT4PaJxHqbDm.jpg",
+    "link": "#"
+  },
+  {
+    "id": 118,
+    "judul": "The Boy and the Heron",
+    "tipe": "Movie",
+    "rating": "7.7",
+    "durasi": "124 min",
+    "episode": 1,
+    "tahun": 2023,
+    "studio": "Studio Ghibli",
+    "kualitas": "WEBDL",
+    "sinopsis": "Mahito Maki menemukan menara misterius tua yang membawanya ke dunia di antara kehidupan dan kematian, dipandu oleh burung bangau abu-abu yang aneh setelah kehilangan ibunya dalam kebakaran.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/f9qKRNpfHU5fS9gHp5JbBhRxFxv.jpg",
+    "link": "#"
+  },
+  {
+    "id": 119,
+    "judul": "Tengen Toppa Gurren Lagann: The Movie",
+    "tipe": "Movie",
+    "rating": "8.1",
+    "durasi": "112 min",
+    "episode": 2,
+    "tahun": 2008,
+    "studio": "Gainax",
+    "kualitas": "BLURAY",
+    "sinopsis": "Versi film dari kisah epik Simon dan Kamina yang menggabungkan arc pertama dan kedua serial TV dengan adegan pertempuran yang diperluas dan animasi yang diperbarui.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Mecha"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/2RJvkMQMtj6yPlRW0z3tRqzFdEd.jpg",
+    "link": "#"
+  },
+  {
+    "id": 120,
+    "judul": "Dragon Ball Super: Broly",
+    "tipe": "Movie",
+    "rating": "7.7",
+    "durasi": "100 min",
+    "episode": 1,
+    "tahun": 2018,
+    "studio": "Toei Animation",
+    "kualitas": "BLURAY",
+    "sinopsis": "Goku dan Vegeta bertemu Broly, seorang Saiyan yang dibentuk sejak bayi menjadi mesin perang paling kuat namun tanpa kendali atas kekuatan liarnya. Pertempuran dahsyat memaksa para petarung terkuat bersatu.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/2JABKhDJEd9R4Lqf8OUYEzxM41X.jpg",
+    "link": "#"
+  },
+  {
+    "id": 121,
+    "judul": "Sword Art Online: Progressive (2021)",
+    "tipe": "Movie",
+    "rating": "7.5",
+    "durasi": "97 min",
+    "episode": 1,
+    "tahun": 2021,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kisah awal Sword Art Online yang menceritakan setiap lantai Aincrad secara detail dari sudut pandang baru Asuna yang membuat penonton lebih memahami perjalanan emosional para pemain terjebak.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Fantasy",
+      "Romance"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 122,
+    "judul": "Sword Art Online: Movie - Progressive Scherzo of Deep Night",
+    "tipe": "Movie",
+    "rating": "7.4",
+    "durasi": "99 min",
+    "episode": 1,
+    "tahun": 2022,
+    "studio": "A-1 Pictures",
+    "kualitas": "WEBDL",
+    "sinopsis": "Berlanjut dari Aria of a Starless Night, Kirito dan Asuna menghadapi lantai-lantai berikutnya Aincrad dengan konflik guild yang semakin intens dan rahasia berbahaya yang mengancam strategi bertahan hidup mereka.",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
+    "link": "#"
+  },
+  {
+    "id": 123,
+    "judul": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Familia Myth (Movie)",
+    "tipe": "Movie",
+    "rating": "7.5",
+    "durasi": "69 min",
+    "episode": 1,
+    "tahun": 2019,
+    "studio": "J.C.Staff",
+    "kualitas": "WEBDL",
+    "sinopsis": "Arrow of the Orion. Bell Cranel dikirim bersama Artemis dalam sebuah petualangan untuk menghadapi musuh purba. Sebuah kisah dari dunia DanMachi yang memperlihatkan sisi lain dari hubungan Bell dengan para dewi.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/ykSbLAjHaWB8LDiNXW62M3zXfFj.jpg",
+    "link": "#"
+  },
+  {
+    "id": 124,
+    "judul": "Spy x Family Code: White",
+    "tipe": "Movie",
+    "rating": "7.9",
+    "durasi": "110 min",
+    "episode": 1,
+    "tahun": 2023,
+    "studio": "Wit Studio / CloverWorks",
+    "kualitas": "WEBDL",
+    "sinopsis": "Keluarga Forger pergi berlibur ke kota salju, namun misi rahasia tetap menghantui mereka. Anya tanpa sengaja terlibat dalam plot berbahaya yang mengancam perdamaian dunia, dan keluarga ini harus bersatu mengatasi masalah baru.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Slice of Life"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+    "link": "#"
+  },
+  {
+    "id": 125,
+    "judul": "Mushoku Tensei: Isekai Ittara Honki Dasu - Movie",
+    "tipe": "Movie",
+    "rating": "8.2",
+    "durasi": "90 min",
+    "episode": 1,
+    "tahun": 2024,
+    "studio": "Bind",
+    "kualitas": "WEBDL",
+    "sinopsis": "Kisah kompilasi dan cerita baru dari dunia Mushoku Tensei yang menampilkan petualangan Rudeus Greyrat dalam versi layar lebar dengan animasi yang lebih memukau.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Isekai"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "link": "#"
+  },
+  {
+    "id": 126,
+    "judul": "Frieren: Beyond Journey's End - Movie",
+    "tipe": "Movie",
+    "rating": "9.0",
+    "durasi": "112 min",
+    "episode": 1,
+    "tahun": 2025,
+    "studio": "Madhouse",
+    "kualitas": "WEBDL",
+    "sinopsis": "Versi film dari petualangan Frieren dan timnya yang mengungkap rahasia baru tentang sejarah dunia dan masa lalu sang penyihir legendaris dalam format yang lebih sinematik.",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Drama"
+    ],
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/naEEVjSMnalwcxA38Ah2eaXQCFT.jpg",
+    "link": "#"
+  }
+]
