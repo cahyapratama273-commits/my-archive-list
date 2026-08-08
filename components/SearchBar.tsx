@@ -70,18 +70,18 @@ export default function SearchBar() {
   const totalResults = results.anime.length + results.film.length + results.movie.length;
 
   return (
-    <div ref={containerRef} className="relative flex items-center">
+    <div ref={containerRef} className="relative flex items-center w-full">
       {!mobileExpanded && (
         <button
           onClick={() => setMobileExpanded(true)}
-          className="rounded-lg p-2 text-white transition-colors hover:bg-indigo-600 md:hidden"
+          className="rounded-lg p-2 text-zinc-400 transition-colors hover:bg-zinc-800 hover:text-white md:hidden"
           aria-label="Buka pencarian"
         >
           <SearchIcon className="h-5 w-5" />
         </button>
       )}
 
-      <div className="relative hidden w-full max-w-xs md:block">
+      <div className="relative hidden w-full md:block">
         <SearchInput value={query} onChange={setQuery} onFocus={() => query && setIsOpen(true)} isLoading={isLoading} />
       </div>
 
@@ -97,7 +97,7 @@ export default function SearchBar() {
               autoFocus
             />
           </div>
-          <button onClick={closeAll} className="flex-shrink-0 rounded-lg p-2 text-white transition-colors hover:bg-indigo-600" aria-label="Tutup pencarian">
+          <button onClick={closeAll} className="flex-shrink-0 rounded-lg p-2 text-zinc-400 hover:bg-zinc-800 hover:text-white transition-colors" aria-label="Tutup pencarian">
             <CloseIcon className="h-5 w-5" />
           </button>
         </div>
@@ -105,14 +105,14 @@ export default function SearchBar() {
 
       {isOpen && (
         <div
-          className={`overflow-y-auto rounded-lg border border-zinc-800 bg-zinc-900 shadow-xl z-50 ${
+          className={`overflow-y-auto rounded-xl border border-zinc-800 bg-zinc-950/95 backdrop-blur-xl shadow-2xl z-50 ${
             mobileExpanded
               ? "fixed inset-x-4 top-16 max-h-[75vh] md:hidden"
-              : "absolute top-full mt-2 hidden w-full max-h-[70vh] md:block"
+              : "absolute top-full right-0 left-0 mt-2 hidden max-h-[70vh] md:block"
           }`}
         >
           {totalResults === 0 && !isLoading && (
-            <p className="px-4 py-6 text-center text-sm text-zinc-500">
+            <p className="px-4 py-8 text-center text-sm text-zinc-500">
               Tidak ada hasil untuk &quot;{query}&quot;
             </p>
           )}
@@ -142,7 +142,10 @@ function SearchInput({
   ref?: React.Ref<HTMLInputElement>;
 }) {
   return (
-    <>
+    <div className="relative w-full">
+      <div className="pointer-events-none absolute inset-y-0 left-3 flex items-center text-zinc-500">
+        <SearchIcon className="h-4 w-4" />
+      </div>
       <input
         ref={ref}
         type="text"
@@ -151,7 +154,7 @@ function SearchInput({
         onFocus={onFocus}
         autoFocus={autoFocus}
         placeholder="Cari anime, film, atau movie..."
-        className="w-full rounded-lg border border-zinc-800 bg-zinc-900 py-2 pl-9 pr-4 text-sm text-zinc-100 placeholder:text-zinc-500 transition-colors focus:border-indigo-500 focus:outline-none focus:ring-1 focus:ring-indigo-500"
+        className="w-full rounded-lg border border-zinc-800 bg-zinc-900/50 py-2 pl-9 pr-10 text-sm text-zinc-100 placeholder:text-zinc-500 transition-all focus:border-indigo-500 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:bg-zinc-900/90"
       />
 
       {isLoading && (
@@ -159,7 +162,7 @@ function SearchInput({
           <div className="h-4 w-4 animate-spin rounded-full border-2 border-indigo-500 border-t-transparent" />
         </div>
       )}
-    </>
+    </div>
   );
 }
 
@@ -174,26 +177,42 @@ function ResultGroup({
   items: MediaData[];
   onItemClick: () => void;
 }) {
+  const TYPE_BADGE: Record<string, string> = {
+    anime: "bg-pink-950/40 border-pink-800/40 text-pink-400",
+    film: "bg-blue-950/40 border-blue-800/40 text-blue-400",
+    movie: "bg-emerald-950/40 border-emerald-800/40 text-emerald-400",
+  };
+
   return (
-    <div className="border-t border-zinc-800 p-2 first:border-t-0">
-      <p className="px-2 py-1 text-xs font-semibold uppercase text-indigo-400">{label}</p>
-      {items.map((item) => (
-        <Link
-          key={item.id}
-          href={`/${category}/${item.id}`}
-          onClick={onItemClick}
-          className="flex items-center gap-3 rounded-md px-2 py-2 transition-colors hover:bg-zinc-800"
-        >
-          <div className="relative h-14 w-10 flex-shrink-0 overflow-hidden rounded bg-zinc-800">
-            <Image src={item.img} alt={item.judul} fill className="object-cover" sizes="40px" />
-          </div>
-          <div className="min-w-0 flex-1">
-            <p className="truncate text-sm font-medium text-zinc-100">{item.judul}</p>
-            <p className="text-xs text-zinc-500">{item.tahun}</p>
-          </div>
-          <span className="flex-shrink-0 text-xs font-semibold text-yellow-400">★ {item.rating}</span>
-        </Link>
-      ))}
+    <div className="border-t border-zinc-800/60 first:border-t-0 p-1">
+      <div className="px-3 py-2 flex items-center justify-between">
+        <p className="text-[10px] font-bold uppercase tracking-wider text-indigo-400">{label}</p>
+        <span className={`text-[9px] font-semibold px-2 py-0.5 rounded border ${TYPE_BADGE[category]}`}>
+          {category.toUpperCase()}
+        </span>
+      </div>
+      <div className="space-y-0.5">
+        {items.map((item) => (
+          <Link
+            key={item.id}
+            href={`/${category}/${item.id}`}
+            onClick={onItemClick}
+            className="flex items-center gap-3 rounded-lg px-3 py-2 transition-colors hover:bg-zinc-900/80"
+          >
+            <div className="relative h-12 w-9 flex-shrink-0 overflow-hidden rounded bg-zinc-800 border border-zinc-800/50">
+              <Image src={item.img} alt={item.judul} fill className="object-cover" sizes="36px" />
+            </div>
+            <div className="min-w-0 flex-1">
+              <p className="truncate text-xs font-semibold text-zinc-200 group-hover:text-white transition-colors">{item.judul}</p>
+              <p className="text-[10px] text-zinc-500 mt-0.5">{item.tahun} • {item.durasi}</p>
+            </div>
+            <div className="flex-shrink-0 flex items-center gap-1 text-[11px] font-semibold text-yellow-500">
+              <span>★</span>
+              <span>{item.rating}</span>
+            </div>
+          </Link>
+        ))}
+      </div>
     </div>
   );
 }

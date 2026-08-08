@@ -7,11 +7,14 @@ export interface MediaData {
   rating: string;
   durasi: string;
   tahun: number;
-  sutradara: string;
+  sutradara?: string;
   kualitas: string;
   sinopsis: string;
   genres: string[];
   img: string;
+  episode?: number;
+  studio?: string;
+  link?: string;
 }
 
 export interface MediaWithCategory extends MediaData {

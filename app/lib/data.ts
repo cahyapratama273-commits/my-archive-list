@@ -1,7 +1,7 @@
-import animeData from "@/app/data/Anime.json";
-import filmData from "@/app/data/Film.json";
-import movieData from "@/app/data/Movie.json";
-import genreList from "@/app/data/Genre.json";
+import animeData from "@/data/Anime.json";
+import filmData from "@/data/Film.json";
+import movieData from "@/data/Movie.json";
+import genreList from "@/data/Genre.json";
 import { MediaData, MediaWithCategory, Category, GenreCount } from "./type";
 
 const DATASETS: Record<Category, MediaData[]> = {
@@ -18,11 +18,26 @@ export function getPopular(category: Category, limit: number = 10): MediaData[] 
   return [...DATASETS[category]].sort(byRatingDesc).slice(0, limit);
 }
 
-export function getPaginated(category: Category, page: number = 1, perPage: number = 24) {
-  const data = [...DATASETS[category]].sort(byRatingDesc);
+export function getPaginated(category: Category, page: number = 1, perPage: number = 24, sortBy: string = "popular") {
+  const data = [...DATASETS[category]];
+  
+  if (sortBy === "latest" || sortBy === "terbaru") {
+    data.sort((a, b) => b.tahun - a.tahun);
+  } else if (sortBy === "rating") {
+    data.sort(byRatingDesc);
+  } else if (sortBy === "az") {
+    data.sort((a, b) => a.judul.localeCompare(b.judul, "id"));
+  } else {
+    data.sort(byRatingDesc);
+  }
+
   const totalPages = Math.max(1, Math.ceil(data.length / perPage));
   const start = (page - 1) * perPage;
-  return { results: data.slice(start, start + perPage), totalPages };
+  return { 
+    results: data.slice(start, start + perPage), 
+    totalPages,
+    totalItems: data.length
+  };
 }
 
 export function getById(category: Category, id: number): MediaData | null {
@@ -86,4 +101,14 @@ export function getGenreCounts(): GenreCount[] {
   return Array.from(genreMap.entries())
     .map(([name, count]) => ({ name, count }))
     .sort((a, b) => b.count - a.count);
+}
+
+export function getSimilar(category: Category, id: number, limit: number = 5): MediaData[] {
+  const current = getById(category, id);
+  if (!current) return [];
+  
+  return DATASETS[category]
+    .filter((item) => item.id !== id && item.genres.some((g) => current.genres.includes(g)))
+    .sort(byRatingDesc)
+    .slice(0, limit);
 }
